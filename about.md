@@ -2,6 +2,10 @@
 
 I am a fifth-year Ph.D. student in the [Department of Psychology at Stanford University](https://psychology.stanford.edu/).
 
+* [ABOUT ME](https://kgweisman.github.io/about)
+* [PUBLICATIONS](https://kgweisman.github.io/publications)
+* [TEACHING](https://kgweisman.github.io/teaching)
+
 ### My work
 
 I am interested in intuitive "philosophy of mind" - specifically, how children and adults reason about mental life, sentience, consciousness, and personhood. How do we know when we're in the presence of a sentient creature? What is the nature and structure of the lay concept of "mind"? Answers to these questions are likely to change across development, culture, and history, with consequences in both the cognitive and sociomoral domains. I work primarily with [Ellen Markman](https://profiles.stanford.edu/ellen-markman) ([lab website](https://profiles.stanford.edu/ellen-markman)) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck).
