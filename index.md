@@ -7,4 +7,4 @@ I am a fifth-year Ph.D. student in the Department of Psychology at Stanford Univ
 * [PUBLICATIONS](https://kgweisman.github.io/publications)
 * [TEACHING](https://kgweisman.github.io/teaching)
 
-![Kara Weisman](kgweisman.github.io/_images/kgw_pic1.jpg)
+![Kara Weisman](kgweisman.github.io/assets/kgw_pic1.jpg)
