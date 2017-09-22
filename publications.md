@@ -1,5 +1,7 @@
 ## Kara Weisman
 
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)]
+
 I am a fifth-year Ph.D. student in the Department of Psychology at Stanford University, studying cognitive development and folk philosophy of mind.
 
 * [HOME]({{ kgweisman.github.io }}/index)
@@ -8,6 +10,8 @@ I am a fifth-year Ph.D. student in the Department of Psychology at Stanford Univ
 * [TEACHING]({{ kgweisman.github.io }}/teaching)
 
 ### Publications
+
+_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2017-07-31.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
 
