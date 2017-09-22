@@ -1,6 +1,10 @@
-## Publications
+## Kara Weisman
 
-### Journal Articles
+I am a fifth-year Ph.D. student in the [Department of Psychology at Stanford University](https://psychology.stanford.edu/).
+
+### Publications
+
+#### Journal Articles
 
 **Weisman, K.**, & Markman, E.M. (2017). Theory-based explanation as intervention. _Psychonomic Bulletin and Review_. [link](http://www.readcube.com/articles/10.3758/s13423-016-1207-2?author_access_token=sDJbPfAPbRSIbsLbDlGa8ZAH0g46feNdnc402WrhzyrXfM5itBtMyVjVlB6lonXukRiOpuDRan29-KQZFHMnjqz8isY7i0JADwz7M61StkaFLCPB5xg6ZdX_nyzcJ_t_fElFpwuVnNZVDUw3pDYyEg%3D%3D)
 
@@ -10,7 +14,7 @@ Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Youn
 
 Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children associate racial groups with wealth: Evidence from South Africa. _Child Development_, _83_(6), 1884-1899. [link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01819.x/abstract) [pdf](http://web.stanford.edu/~kweisman/publications/Olson,%20Shutts,%20Kinzler,%20&%20Weisman%20(2012).pdf)
 
-### Selected Posters & Presentations
+#### Selected Posters & Presentations
 
 **Weisman, K.**, Dweck, C.S., & Markman (2017, October). The development of intuitions about the structure of mental life. Poster to be presented at the Biennial Meeting of the Cognitive Development Society, Portland, OR.
 
