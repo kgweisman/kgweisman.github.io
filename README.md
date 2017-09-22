@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Kara Weisman
 
-You can use the [editor on GitHub](https://github.com/kgweisman/kgweisman.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a fifth-year Ph.D. student in the [Department of Psychology at Stanford University](https://psychology.stanford.edu/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### My work
 
-### Markdown
+I am interested in intuitive "philosophy of mind" - specifically, how children and adults reason about mental life, sentience, consciousness, and personhood. How do we know when we're in the presence of a sentient creature? What is the nature and structure of the lay concept of "mind"? Answers to these questions are likely to change across development, culture, and history, with consequences in both the cognitive and sociomoral domains. I work primarily with [Ellen Markman](https://profiles.stanford.edu/ellen-markman) ([lab website](https://profiles.stanford.edu/ellen-markman)) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Most of my work examines social reasoning through behavioral studies with children and adults, but I am also interested in how cultural forces shape social-cognitive development. I am currently collaborating with [Tanya Luhrmann](http://luhrmann.net/) (Stanford Anthropology) and [Cristine Legare](http://www.cristinelegare.com/) (UT-Austin Psychology) on the [Spiritual Curiosity Project](https://spiritualcuriosityproject.wordpress.com/), which explores how people in various cultural contexts come to think about "the mind" and how that shapes thir spiritual experiences. I also analyze cultural products, such as picture books, that serve both as records of adults' ideas about personhood and as sources of input for children as they learn what it means to be a person.
 
-```markdown
-Syntax highlighted code block
+### My background
 
-# Header 1
-## Header 2
-### Header 3
+Before coming to Stanford, I worked as a research assistant for [Elizabeth Spelke](https://software.rc.fas.harvard.edu/lds/research/spelke/elizabeth-spelke/) at Harvard University (2011-13); as a research coordinator for the [Preschool Relationships Enhancement Project](https://curry.virginia.edu/faculty-research/centers-labs-projects/castl/preschool-relationships-enhancement-project-prep) and the [Effective Classroom Interactions](https://www.mooc-list.com/course/effective-classroom-interactions-supporting-young-children%E2%80%99s-development-coursera) MOOC at the University of Virginia (2011-13); and as the lab manager of Kristin Shutts' [Social Kids Lab](http://www.waisman.wisc.edu/socialkids/) at the University of Wisconsin-Madison (2009-11). I graduated from Yale University with a B.A. in [Cognitive Science](http://cogsci.yale.edu/) in 2009, where I worked with [Kristina Olson](http://krolson.wixsite.com/scdlab), [David Ross](http://medicine.yale.edu/psychiatry/people/david_a_ross.profile), [Tamar Szabó Gendler](http://tamar-gendler.yale.edu/), [Woo-Kyoung Ahn](http://ahnthinkinglab.yale.edu/), and [Teresa Treat](https://psychology.uiowa.edu/people/teresa-treat).
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kgweisman/kgweisman.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
