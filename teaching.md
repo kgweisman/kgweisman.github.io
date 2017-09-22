@@ -2,6 +2,12 @@
 
 I am a fifth-year Ph.D. student in the [Department of Psychology at Stanford University](https://psychology.stanford.edu/).
 
+* [ABOUT ME](https://kgweisman.github.io/about)
+
+* [PUBLICATIONS](https://kgweisman.github.io/publications)
+
+* [TEACHING](https://kgweisman.github.io/teaching)
+
 ### Teaching
 
 _For office hours, sign up [here](https://kweisman.youcanbook.me/service/jsps/closed.jsp?cal=nEZiuVmVn7tdtGJzQBnf&ini=1506049785130). For psych department statistics consulting, [email me](mailto:kweisman@stanford.edu)._
