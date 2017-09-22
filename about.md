@@ -2,18 +2,18 @@
 
 I am a fifth-year Ph.D. student in the Department of Psychology at Stanford University, studying cognitive development and intuitive philosophy of mind.
 
-* [HOME](https://kgweisman.github.io/index)
-* [ABOUT ME](https://kgweisman.github.io/about)
-* [PUBLICATIONS](https://kgweisman.github.io/publications)
-* [TEACHING](https://kgweisman.github.io/teaching)
+* [HOME]({{ kgweisman.github.io }}/index)
+* [ABOUT ME]({{ kgweisman.github.io }}/about)
+* [PUBLICATIONS]({{ kgweisman.github.io }}/publications)
+* [TEACHING]({{ kgweisman.github.io }}/teaching)
 
 ### About me
 
 #### Current work
 
-I am interested in intuitive "philosophy of mind" - specifically, how children and adults reason about mental life, sentience, consciousness, and personhood. How do we know when we're in the presence of a sentient creature? What is the nature and structure of the lay concept of "mind"? Answers to these questions are likely to change across development, culture, and history, with consequences in both the cognitive and sociomoral domains. I work primarily with [Ellen Markman](https://profiles.stanford.edu/ellen-markman) ([lab website](https://profiles.stanford.edu/ellen-markman)) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck).
+I am interested in intuitive "philosophy of mind" - specifically, how children and adults reason about mental life, sentience, consciousness, and personhood. How do we know when we're in the presence of a sentient creature? What is the nature and structure of the lay concept of "mind"? Answers to these questions are likely to vary across development, culture, and history, with consequences in the cognitive, social, and moral domains. I work primarily with [Ellen Markman](https://profiles.stanford.edu/ellen-markman) ([lab website](https://profiles.stanford.edu/ellen-markman)) and [Carol Dweck](https://profiles.stanford.edu/carol-dweck).
 
-Most of my work examines social reasoning through behavioral studies with children and adults, but I am also interested in how cultural forces shape social-cognitive development. I am currently collaborating with [Tanya Luhrmann](http://luhrmann.net/) (Stanford Anthropology) and [Cristine Legare](http://www.cristinelegare.com/) (UT-Austin Psychology) on the [Spiritual Curiosity Project](https://spiritualcuriosityproject.wordpress.com/), which explores how people in various cultural contexts come to think about "the mind" and how that shapes thir spiritual experiences. I also analyze cultural products, such as picture books, that serve both as records of adults' ideas about personhood and as sources of input for children as they learn what it means to be a person.
+Most of my work examines social reasoning through behavioral studies with children (ages 3-10 years) and adults, but I am also interested in how cultural forces shape social-cognitive development. I am currently collaborating with [Tanya Luhrmann](http://luhrmann.net/) (Stanford Anthropology) and [Cristine Legare](http://www.cristinelegare.com/) (UT-Austin Psychology) as part of the [Spiritual Curiosity Project](https://spiritualcuriosityproject.wordpress.com/), which explores how people in various cultural contexts come to think about "the mind" and how that shapes their spiritual experiences. I also analyze cultural products, such as picture books, that serve both as records of adults' ideas about personhood and as sources of input for children as they learn what it means to be a person.
 
 #### Background
 
