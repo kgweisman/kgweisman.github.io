@@ -3,9 +3,7 @@
 I am a fifth-year Ph.D. student in the [Department of Psychology at Stanford University](https://psychology.stanford.edu/).
 
 * [ABOUT ME](https://kgweisman.github.io/about)
-
 * [PUBLICATIONS](https://kgweisman.github.io/publications)
-
 * [TEACHING](https://kgweisman.github.io/teaching)
 
 ### Teaching
@@ -31,4 +29,4 @@ PSYCH 60: Introduction to Developmental Psychology
 Fall 2015 [[syllabus](https://docs.google.com/document/d/1O8L8n-9iD2_kdUlXgbGBENxkuAN23VRNWhq7PT_DqVg/edit)]: Teaching Assistant & Guest Lecturer (Instructor: Associate Professor [Mike Frank](http://web.stanford.edu/~mcfrank/)); instructional materials available on [YouTube](https://www.youtube.com/playlist?list=PL8OT0lrhVRGj74yjkHKd8MZkN7PhswyGB) (created with [Mike Frank](http://web.stanford.edu/~mcfrank/), [Kyle MacDonald](http://kemacdonald.com/), & [Natalie Colich](http://web.stanford.edu/group/mood/cgi-bin/wordpress/?p=216))
 
 PSYCH 252: Statistical Methods for Behavioral & Social Sciences
-Fall 2014 [[course website](http://web.stanford.edu/class/psych252/index.html)]: Teaching Assistant (Instructors: Professor Emeritus [Ewart Thomas](https://profiles.stanford.edu/ewart-thomas) & Professor [Benoît Monin](https://people.stanford.edu/monin/))
+Fall 2014 [[course website](http://web.stanford.edu/class/psych252/index.html)]: Teaching Assistant (Instructors: Professor Emeritus [Ewart Thomas](https://profiles.stanford.edu/ewart-thomas) & Professor [Benoit Monin](https://people.stanford.edu/monin/))
