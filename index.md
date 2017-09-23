@@ -10,5 +10,4 @@ I am a fifth-year Ph.D. student in the Department of Psychology at Stanford Univ
 * [TEACHING]({{ kgweisman.github.io }}/teaching)
 
 ![Kara]({{ kgweisman.github.io }}/images/kgw_pic1.jpg)
-![Baby Kara]({{ kgweisman.github.io }}/images/kgw_pic2.jpg)
 ![Cat]({{ kgweisman.github.io }}/images/cat.jpg)
