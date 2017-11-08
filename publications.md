@@ -11,13 +11,13 @@ I am a fifth-year Ph.D. student in the Department of Psychology at Stanford Univ
 
 ### Publications
 
-_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2017-10-09.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2017-11-09.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
 
-**Weisman, K.**, Dweck, C.S., & Markman, E.M. (in press). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_. [link forthcoming]
+**Weisman, K.**, Dweck, C.S., & Markman, E.M. (in press). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_, _114_(43), 11374-11379. [[link](http://www.pnas.org/content/114/43/11374.short)]
 
-**Weisman, K.**, & Markman, E.M. (2017). Theory-based explanation as intervention. _Psychonomic Bulletin and Review_. [[link](http://www.readcube.com/articles/10.3758/s13423-016-1207-2?author_access_token=sDJbPfAPbRSIbsLbDlGa8ZAH0g46feNdnc402WrhzyrXfM5itBtMyVjVlB6lonXukRiOpuDRan29-KQZFHMnjqz8isY7i0JADwz7M61StkaFLCPB5xg6ZdX_nyzcJ_t_fElFpwuVnNZVDUw3pDYyEg%3D%3D)]
+**Weisman, K.**, & Markman, E.M. (2017). Theory-based explanation as intervention. _Psychonomic Bulletin and Review_, _24_(5), 1555-1562. [[link](http://www.readcube.com/articles/10.3758/s13423-016-1207-2?author_access_token=sDJbPfAPbRSIbsLbDlGa8ZAH0g46feNdnc402WrhzyrXfM5itBtMyVjVlB6lonXukRiOpuDRan29-KQZFHMnjqz8isY7i0JADwz7M61StkaFLCPB5xg6ZdX_nyzcJ_t_fElFpwuVnNZVDUw3pDYyEg%3D%3D)]
 
 Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Young children choose to inform previously knowledgeable others. _Journal of Cognition and Development_, _17_(2), 320-340. [[link](http://www.tandfonline.com/doi/abs/10.1080/15248372.2014.952731)] [[pdf]({{ kgweisman.github.io }}/pub_files/Kim,%20Kalish,%20Weisman,%20Johnson,%20&%20Shutts%20(2016).pdf)]
 
