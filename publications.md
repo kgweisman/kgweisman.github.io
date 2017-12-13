@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. student in the Department of Psychology at Stanford Univ
 
 ### Publications
 
-_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2017-11-09.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2017-12-13.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
 
