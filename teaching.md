@@ -14,6 +14,7 @@ I am a fifth-year Ph.D. student in the Department of Psychology at Stanford Univ
 _For office hours, sign up [here](https://kweisman.youcanbook.me/service/jsps/closed.jsp?cal=nEZiuVmVn7tdtGJzQBnf&ini=1506049785130). For psych department stats consulting, [email me](mailto:kweisman@stanford.edu)._
 
 #### PSYCH 141: Cognitive Development
+* Fall 2017: Guest Lecturer (Instructor: [Hyo Gweon](http://web.stanford.edu/~hyo/Home.html))
 * Spring 2017: Teaching Assistant & Guest Lecturer (Instructor: [Hyo Gweon](http://web.stanford.edu/~hyo/Home.html))
 
 #### PSYCH 10/STATS 60: Introduction to Statistical Methods: Precalculus [[course website](http://web.stanford.edu/class/psych10/)]
