@@ -31,7 +31,7 @@ Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children ass
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Children's intuitions about the structure of mental life. Talk presented at CogSci 2017 (London, UK) and included in the Proceedings of the 39th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2017/papers/0256/paper0256.pdf)]
 
-**Weisman, K.**, Markman, E.M., & Dweck, C.S. (2017, April). Can robots feel hunger, think, and love' Children's and adults' beliefs about mental capacities. Talk presented at SRCD 2017 (Austin, TX) as part of the symposium "Growing up with smart social robots: Animacy, mind, and morality," co-chaired with [Kimberly Brink](https://lsa.umich.edu/psych/people/graduate-students/kabrink.html) (University of Michigan).
+**Weisman, K.**, Markman, E.M., & Dweck, C.S. (2017, April). Can robots feel hunger, think, and love? Children's and adults' beliefs about mental capacities. Talk presented at SRCD 2017 (Austin, TX) as part of the symposium "Growing up with smart social robots: Animacy, mind, and morality," co-chaired with [Kimberly Brink](https://lsa.umich.edu/psych/people/graduate-students/kabrink.html) (University of Michigan).
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2016). Varieties of experience: A new look at folk philosophy of mind. Talk presented at CogSci 2016 (Philadelphia, PA) and included in the Proceedings of the 38th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2016/papers/0472/paper0472.pdf)]
 
