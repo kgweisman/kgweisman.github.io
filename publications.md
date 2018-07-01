@@ -2,7 +2,7 @@
 
 [**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)]
 
-I am a fifth-year Ph.D. student in the Department of Psychology at Stanford University, studying cognitive development and folk philosophy of mind.
+I am a Ph.D. candidate in the Department of Psychology at Stanford University, studying cognitive development and folk philosophy of mind.
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. student in the Department of Psychology at Stanford Univ
 
 ### Publications
 
-_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2017-12-13.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-07-01.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
 
@@ -26,6 +26,10 @@ Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Youn
 Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children associate racial groups with wealth: Evidence from South Africa. _Child Development_, _83_(6), 1884-1899. [[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01819.x/abstract)] [[pdf]({{ kgweisman.github.io }}/pub_files/Olson,%20Shutts,%20Kinzler,%20&%20Weisman%20(2012).pdf)]
 
 #### Selected Posters & Presentations
+
+**Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2018).pdf)]
+
+Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories through graphical models: A study of beliefs surrounding vaccination decisions. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[pdf]({{ kgweisman.github.io }}/pub_files/Powell,%20Weisman,%20&%20Markman%20(2018).pdf)]
 
 **Weisman, K.**, Dweck, C.S., & Markman (2017, October). The development of intuitions about the structure of mental life. Poster presented at the Biennial Meeting of the Cognitive Development Society, Portland, OR. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2017%20CDS%20poster).pdf)]
 
