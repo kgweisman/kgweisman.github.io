@@ -15,6 +15,9 @@ _Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-07-01.pdf) to 
 
 #### Journal Articles
 
+**Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes
+from a young psychologist on the Mind & Spirit Project.
+
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_, _114_(43), 11374-11379. [[link](http://www.pnas.org/content/114/43/11374.short)]
 
 **Weisman, K.**, & Markman, E.M. (2017). Theory-based explanation as intervention. _Psychonomic Bulletin and Review_, _24_(5), 1555-1562. [[link](http://www.readcube.com/articles/10.3758/s13423-016-1207-2'author_access_token=sDJbPfAPbRSIbsLbDlGa8ZAH0g46feNdnc402WrhzyrXfM5itBtMyVjVlB6lonXukRiOpuDRan29-KQZFHMnjqz8isY7i0JADwz7M61StkaFLCPB5xg6ZdX_nyzcJ_t_fElFpwuVnNZVDUw3pDYyEg%3D%3D)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Markman%20(2017).pdf)]
