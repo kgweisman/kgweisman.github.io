@@ -11,9 +11,11 @@ I am a Ph.D. candidate in the Department of Psychology at Stanford University, s
 
 ### Publications
 
-_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-07-01.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-07-21.pdf) to view my full CV. Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
+
+**Weisman, K.** (submitted). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
 **Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes
 from a young psychologist on the Mind & Spirit Project.
@@ -28,25 +30,27 @@ Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Youn
 
 Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children associate racial groups with wealth: Evidence from South Africa. _Child Development_, _83_(6), 1884-1899. [[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01819.x/abstract)] [[pdf]({{ kgweisman.github.io }}/pub_files/Olson,%20Shutts,%20Kinzler,%20&%20Weisman%20(2012).pdf)]
 
-#### Selected Posters & Presentations
+#### Refereed Conference Papers
 
-**Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2018).pdf)]
+**Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0230/0230.pdf)]
 
-Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories through graphical models: A study of beliefs surrounding vaccination decisions. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[pdf]({{ kgweisman.github.io }}/pub_files/Powell,%20Weisman,%20&%20Markman%20(2018).pdf)]
-
-**Weisman, K.**, Dweck, C.S., & Markman (2017, October). The development of intuitions about the structure of mental life. Poster presented at the Biennial Meeting of the Cognitive Development Society, Portland, OR. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2017%20CDS%20poster).pdf)]
+Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories through graphical models: A study of beliefs surrounding vaccination decisions. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0184/0184.pdf)]
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Children's intuitions about the structure of mental life. Talk presented at CogSci 2017 (London, UK) and included in the Proceedings of the 39th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2017/papers/0256/paper0256.pdf)]
 
-**Weisman, K.**, Markman, E.M., & Dweck, C.S. (2017, April). Can robots feel hunger, think, and love? Children's and adults' beliefs about mental capacities. Talk presented at SRCD 2017 (Austin, TX) as part of the symposium "Growing up with smart social robots: Animacy, mind, and morality," co-chaired with [Kimberly Brink](https://lsa.umich.edu/psych/people/graduate-students/kabrink.html) (University of Michigan).
-
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2016). Varieties of experience: A new look at folk philosophy of mind. Talk presented at CogSci 2016 (Philadelphia, PA) and included in the Proceedings of the 38th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2016/papers/0472/paper0472.pdf)]
+
+**Weisman, K.**, Markman, E.M., & Dweck, C.S. (2015). Reasoning about sentience and animacy: Children's and adults' inferences about the properties of unseen entities. Talk presented at CogSci 2015 (Pasadena, CA) and included in the Proceedings of the 37th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2015/papers/0450/paper0450.pdf)]
+
+#### Selected Posters & Presentations
+
+**Weisman, K.**, Dweck, C.S., & Markman (2017, October). The development of intuitions about the structure of mental life. Poster presented at the Biennial Meeting of the Cognitive Development Society, Portland, OR. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2017%20CDS%20poster).pdf)]
+
+**Weisman, K.**, Markman, E.M., & Dweck, C.S. (2017, April). Can robots feel hunger, think, and love? Children's and adults' beliefs about mental capacities. Talk presented at SRCD 2017 (Austin, TX) as part of the symposium "Growing up with smart social robots: Animacy, mind, and morality," co-chaired with [Kimberly Brink](https://lsa.umich.edu/psych/people/graduate-students/kabrink.html) (University of Michigan).
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2016, June). Varieties of experience: A new look at folk philosophy of mind. Talk presented at the Annual Meeting of the Society for Philosophy and Psychology, Austin, TX.
 
 **Weisman, K.**, Dweck, C.S., & Markman (2015, October). Mapping people's conceptions of sentient beings: Judgments about the relative capacities of animals, humans, and technology. Poster presented at the Biennial Meeting of the Cognitive Development Society, Columbus, OH. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2015%20CDS%20poster).pdf)]
-
-**Weisman, K.**, Markman, E.M., & Dweck, C.S. (2015). Reasoning about sentience and animacy: Children's and adults' inferences about the properties of unseen entities. Talk presented at CogSci 2015 (Pasadena, CA) and included in the Proceedings of the 37th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2015/papers/0450/paper0450.pdf)]
 
 **Weisman, K.**, Markman, E.M., & Dweck, C.S. (2015, June). Reasoning about sentience: Inferences among capacities for affect, autonomy, & perception. Poster presented at the Annual Meeting of the Society for Philosophy and Psychology, Durham, NC. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Markman,%20&%20Dweck%20(2015%20SPP%20poster).pdf)]
 
