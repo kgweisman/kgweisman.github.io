@@ -15,7 +15,7 @@ _Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-07-21.pdf) to 
 
 #### Journal Articles
 
-**Weisman, K.** (submitted). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
+**Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
 **Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes
 from a young psychologist on the Mind & Spirit Project.
