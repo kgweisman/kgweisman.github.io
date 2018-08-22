@@ -2,7 +2,7 @@
 
 [**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)]
 
-I am a Ph.D. candidate in the Department of Psychology at Stanford University, studying cognitive development and folk philosophy of mind.
+I am a Ph.D. candidate in the Department of Psychology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
