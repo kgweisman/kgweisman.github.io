@@ -17,8 +17,7 @@ I am a Ph.D. candidate in the Department of Psychology at Stanford University, s
 
 **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
-**Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes
-from a young psychologist on the Mind & Spirit Project.
+**Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_, _114_(43), 11374-11379. [[link](http://www.pnas.org/content/114/43/11374.short)]
 
