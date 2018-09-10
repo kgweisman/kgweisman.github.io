@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-05.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-10.pdf)]
 
 I am a Ph.D. candidate in the Department of Psychology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
 
@@ -15,7 +15,7 @@ I am a Ph.D. candidate in the Department of Psychology at Stanford University, s
 
 I am broadly interested in intuitive theories and conceptual change, with a focus on **folk philosophy of mind** — how ordinary people come to understand things like mental life, sentience, and personhood. I work primarily with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** ([lab website](https://profiles.stanford.edu/ellen-markman)) and **[Carol Dweck](https://profiles.stanford.edu/carol-dweck)**.
 
-Most of my work takes the form of behavioral studies with 3- to 10-year-old children and adults, but I also study how social-cultural forces shape people’s understanding of the world, through cross-cultural comparisons and studies of cultural products (e.g., children’s books). I am currently collaborating with **[Tanya Luhrmann](http://luhrmann.net/)** (Stanford Anthropology) and **[Cristine Legare](http://www.cristinelegare.com/)** (UT-Austin Psychology) as part of the [Mind & Spirit Project](http://spiritualcuriosityandthemind.stanford.edu/), which explores how people in various cultural contexts come to think about "the mind" and how that shapes their spiritual experiences. I also analyze cultural products, such as picture books, that serve both as records of adults' ideas about personhood and as sources of input for children as they learn what it means to be a person.
+Most of my work takes the form of behavioral studies with 3- to 10-year-old children and adults, but I also study how social-cultural forces shape people’s understanding of the world. I am currently collaborating with **[Tanya Luhrmann](http://luhrmann.net/)** (Stanford Anthropology) and **[Cristine Legare](http://www.cristinelegare.com/)** (UT-Austin Psychology) as part of the [Mind & Spirit Project](http://spiritualcuriosityandthemind.stanford.edu/), which explores how people in various cultural contexts come to think about "the mind" and how that shapes their spiritual experiences.
 
 I also collaborate with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** and **[Derek Powell](http://www.derekmpowell.com/)** on projects related to modeling and intervening on lay theories to effect behavior change by way of conceptual change, especially in the health domain.
 

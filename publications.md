@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-05.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-10.pdf)]
 
 I am a Ph.D. candidate in the Department of Psychology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
 
@@ -11,13 +11,9 @@ I am a Ph.D. candidate in the Department of Psychology at Stanford University, s
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-05.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-10.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
-
-**Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
-
-**Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_, _114_(43), 11374-11379. [[link](http://www.pnas.org/content/114/43/11374.short)]
 
@@ -28,6 +24,12 @@ Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Youn
 **Weisman, K.**, Johnson, M.V., & Shutts, K. (2015). Young children's automatic encoding of social categories. _Developmental Science_, _18_(6), 1036-1043. [[link](http://onlinelibrary.wiley.com/doi/10.1111/desc.12269/full)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Johnson,%20&%20Shutts%20(2015).pdf)]
 
 Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children associate racial groups with wealth: Evidence from South Africa. _Child Development_, _83_(6), 1884-1899. [[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01819.x/abstract)] [[pdf]({{ kgweisman.github.io }}/pub_files/Olson,%20Shutts,%20Kinzler,%20&%20Weisman%20(2012).pdf)]
+
+#### Articles Under Review
+
+**Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
+
+**Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
 
 #### Refereed Conference Papers
 
