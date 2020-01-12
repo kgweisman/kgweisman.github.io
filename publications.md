@@ -1,8 +1,8 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-27.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-01-12.pdf)]
 
-I am a Ph.D. candidate in the Department of Psychology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
+I am a postdoctoral researcher in the Department of Anthropology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -11,9 +11,13 @@ I am a Ph.D. candidate in the Department of Psychology at Stanford University, s
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2018-09-27.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-01-12.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
+
+**Weisman, K.**, & Luhrmann, T.M. (accepted). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_.
+
+Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., Robison, M., Sanchez, K., & Griffiths, C. (accepted). Conceptualizing god as a white man: A psychological barrier to conceptualizing black people and women as leadership worthy. _Journal of Personality and Social Psychology: Interpersonal Relations and Group Processes._
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_, _114_(43), 11374-11379. [[link](http://www.pnas.org/content/114/43/11374.short)]
 
@@ -29,7 +33,11 @@ Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children ass
 
 **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
-**Weisman, K.** (under review). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
+Letterie, M.C., Salo, V.C., Matsumoto, M., **Weisman, K.**, King, L.S., & Humphreys, K.L. (under review). Mothers’ and fathers’ perceptions of children’s mental capacities and self-reported parenting behavior.
+
+#### Preprints
+
+**Weisman, K.** (in prep). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
 
 #### Refereed Conference Papers
 
@@ -44,6 +52,8 @@ Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories t
 **Weisman, K.**, Markman, E.M., & Dweck, C.S. (2015). Reasoning about sentience and animacy: Children's and adults' inferences about the properties of unseen entities. Talk presented at CogSci 2015 (Pasadena, CA) and included in the Proceedings of the 37th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2015/papers/0450/paper0450.pdf)]
 
 #### Selected Posters & Presentations
+
+**Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2019, March). Beliefs about the mental lives of supernatural beings: A cross-cultural comparison. Talk presented at the Biennial Meeting of the Society for Research in Child Development, Baltimore, MD.
 
 **Weisman, K.**, Dweck, C.S., & Markman (2017, October). The development of intuitions about the structure of mental life. Poster presented at the Biennial Meeting of the Cognitive Development Society, Portland, OR. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2017%20CDS%20poster).pdf)]
 
