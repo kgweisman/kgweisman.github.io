@@ -42,6 +42,10 @@ Letterie, M.C., Salo, V.C., Matsumoto, M., **Weisman, K.**, King, L.S., & Humphr
 
 **Weisman, K.** (in prep). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
 
+#### Dissertation
+
+Weisman (2019). The development of conceptual representations of mental life. [[link](https://searchworks.stanford.edu/view/13342745)]  [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20(2019).pdf)]
+
 #### Refereed Conference Papers
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0229/0229.pdf)]
