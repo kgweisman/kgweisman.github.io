@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-01-12.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-03-10.pdf)]
 
 I am a postdoctoral researcher in the Department of Anthropology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
 
@@ -11,17 +11,17 @@ I am a postdoctoral researcher in the Department of Anthropology at Stanford Uni
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-01-12.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-03-10.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
 
-**Weisman, K.**, & Luhrmann, T.M. (accepted). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_.
+**Weisman, K.**\*, & Luhrmann, T.M.\* (in press). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(preprint).pdf)]
 
-Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., Robison, M., Sanchez, K., & Griffiths, C. (accepted). Conceptualizing god as a white man: A psychological barrier to conceptualizing black people and women as leadership worthy. _Journal of Personality and Social Psychology: Interpersonal Relations and Group Processes._
+Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., Robison, M., Sanchez, K., & Griffiths, C. (2020). God as a White man: A psychological barrier to conceptualizing Black people and women as leadership worthy. _Journal of Personality and Social Psychology._ Advance online publication. [[link](https://psycnet.apa.org/record/2020-06604-001)]
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_, _114_(43), 11374-11379. [[link](http://www.pnas.org/content/114/43/11374.short)]
 
-**Weisman, K.**, & Markman, E.M. (2017). Theory-based explanation as intervention. _Psychonomic Bulletin and Review_, _24_(5), 1555-1562. [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Markman%20(2017).pdf)]
+**Weisman, K.**, & Markman, E.M. (2017). Theory-based explanation as intervention. _Psychonomic Bulletin and Review_, _24_(5), 1555-1562. [[link](https://www.ncbi.nlm.nih.gov/pubmed/28097604)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Markman%20(2017).pdf)]
 
 Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Young children choose to inform previously knowledgeable others. _Journal of Cognition and Development_, _17_(2), 320-340. [[link](http://www.tandfonline.com/doi/abs/10.1080/15248372.2014.952731)] [[pdf]({{ kgweisman.github.io }}/pub_files/Kim,%20Kalish,%20Weisman,%20Johnson,%20&%20Shutts%20(2016).pdf)]
 
@@ -30,6 +30,9 @@ Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Youn
 Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children associate racial groups with wealth: Evidence from South Africa. _Child Development_, _83_(6), 1884-1899. [[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01819.x/abstract)] [[pdf]({{ kgweisman.github.io }}/pub_files/Olson,%20Shutts,%20Kinzler,%20&%20Weisman%20(2012).pdf)]
 
 #### Articles Under Review
+
+Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto,
+V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (under review). Sensing the presence of gods and spirits across cultures and faiths. [*joint first authors]
 
 **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
