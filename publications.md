@@ -15,7 +15,7 @@ I am a postdoctoral researcher in the Department of Anthropology at Stanford Uni
 
 #### Journal Articles
 
-**Weisman, K.**\*, & Luhrmann, T.M.\* (in press). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(preprint).pdf)]
+**Weisman, K.**\*, & Luhrmann, T.M.\* (in press). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2020).pdf)]
 
 Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., Robison, M., Sanchez, K., & Griffiths, C. (2020). God as a White man: A psychological barrier to conceptualizing Black people and women as leadership worthy. _Journal of Personality and Social Psychology._ Advance online publication. [[link](https://psycnet.apa.org/record/2020-06604-001)]
 
