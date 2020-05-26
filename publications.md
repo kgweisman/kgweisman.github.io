@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-03-10.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-05-26.pdf)]
 
 I am a postdoctoral researcher in the Department of Anthropology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
 
@@ -11,7 +11,7 @@ I am a postdoctoral researcher in the Department of Anthropology at Stanford Uni
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-03-10.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-05-26.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
 
@@ -48,9 +48,11 @@ Weisman (2019). The development of conceptual representations of mental life. [[
 
 #### Refereed Conference Papers
 
-**Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0229/0229.pdf)]
+Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2020). “Think” and “believe” across cultures: A shared folk distinction between two cognitive attitudes in the US, Ghana, Thailand, China, and Vanuatu. Talk to be presented at CogSci 2020 (virtual meeting) and included in the Proceedings of the 42nd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
 
-Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories through graphical models: A study of beliefs surrounding vaccination decisions. Talk to be presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0183/0183.pdf)]
+**Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0229/0229.pdf)]
+
+Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories through graphical models: A study of beliefs surrounding vaccination decisions. Talk presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0183/0183.pdf)]
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Children's intuitions about the structure of mental life. Talk presented at CogSci 2017 (London, UK) and included in the Proceedings of the 39th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2017/papers/0256/paper0256.pdf)]
 
