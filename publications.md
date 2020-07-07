@@ -2,7 +2,7 @@
 
 [**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-05-26.pdf)]
 
-I am a postdoctoral researcher in the Department of Anthropology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind.
+I am a postdoctoral research associate in the Department of Anthropology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind. In Fall 2020, I will join the [Developing Belief Network](https://www.developingbelief.com/) as a postdoctoral Project Director.
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -15,7 +15,7 @@ I am a postdoctoral researcher in the Department of Anthropology at Stanford Uni
 
 #### Journal Articles
 
-**Weisman, K.**\*, & Luhrmann, T.M.\* (in press). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2020).pdf)]
+**Weisman, K.**\*, & Luhrmann, T.M.\* (2020). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2020).pdf)]
 
 Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., Robison, M., Sanchez, K., & Griffiths, C. (2020). God as a White man: A psychological barrier to conceptualizing Black people and women as leadership worthy. _Journal of Personality and Social Psychology._ Advance online publication. [[link](https://psycnet.apa.org/record/2020-06604-001)]
 
@@ -30,6 +30,8 @@ Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Youn
 Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children associate racial groups with wealth: Evidence from South Africa. _Child Development_, _83_(6), 1884-1899. [[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01819.x/abstract)] [[pdf]({{ kgweisman.github.io }}/pub_files/Olson,%20Shutts,%20Kinzler,%20&%20Weisman%20(2012).pdf)]
 
 #### Articles Under Review
+
+**Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (under review). Concepts of mental life among adults and children in five cultures.
 
 Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto,
 V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (under review). Sensing the presence of gods and spirits across cultures and faiths. [*joint first authors]
