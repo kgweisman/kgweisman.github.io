@@ -1,8 +1,8 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-05-26.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] or [karaw at ucr](mailto:karaw@ucr.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-10-18.pdf)]
 
-I am a postdoctoral research associate in the Department of Anthropology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind. In Fall 2020, I will join the [Developing Belief Network](https://www.developingbelief.com/) as a postdoctoral Project Director.
+I study intuitive theories, conceptual change, and folk philosophy of mind. I am currently a postdoctoral research associate in the Department of Anthropology at Stanford University, as well as the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -11,13 +11,13 @@ I am a postdoctoral research associate in the Department of Anthropology at Stan
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-05-26.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-10-18.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
 
-**Weisman, K.**\*, & Luhrmann, T.M.\* (2020). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2020).pdf)]
+**Weisman, K.**\*, & Luhrmann, T.M.\* (2020). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[link](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.13245)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2020).pdf)]
 
-Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., Robison, M., Sanchez, K., & Griffiths, C. (2020). God as a White man: A psychological barrier to conceptualizing Black people and women as leadership worthy. _Journal of Personality and Social Psychology._ Advance online publication. [[link](https://psycnet.apa.org/record/2020-06604-001)]
+Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., Robison, M., Sanchez, K., & Griffiths, C. (2020). God as a White man: A psychological barrier to conceptualizing Black people and women as leadership worthy. _Journal of Personality and Social Psychology._ Advance online publication. [[link](https://psycnet.apa.org/record/2020-06604-001)] [[pdf]({{ kgweisman.github.io }}/pub_files/Roberts%20et%20al%20(2020).pdf)]
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Rethinking people's conceptions of mental life. _Proceedings of the National Academy of Sciences_, _114_(43), 11374-11379. [[link](http://www.pnas.org/content/114/43/11374.short)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman%20(2017).pdf)]
 
@@ -63,6 +63,8 @@ Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories t
 **Weisman, K.**, Markman, E.M., & Dweck, C.S. (2015). Reasoning about sentience and animacy: Children's and adults' inferences about the properties of unseen entities. Talk presented at CogSci 2015 (Pasadena, CA) and included in the Proceedings of the 37th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2015/papers/0450/paper0450.pdf)]
 
 #### Selected Posters & Presentations
+
+**Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2020, July). The development of conceptual representations of mental life in five cultural contexts. Talk presented as part of the [“Cognition, Collectives, and Human Culture” pre-conference workshop](https://cognitioncollectivesandculture.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting. [[video](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)]
 
 **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2019, March). Beliefs about the mental lives of supernatural beings: A cross-cultural comparison. Talk presented at the Biennial Meeting of the Society for Research in Child Development, Baltimore, MD.
 

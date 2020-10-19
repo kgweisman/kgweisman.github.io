@@ -1,8 +1,8 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-05-26.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] or [karaw at ucr](mailto:karaw@ucr.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-10-18.pdf)]
 
-I am a postdoctoral research associate in the Department of Anthropology at Stanford University, studying intuitive theories, conceptual change, and folk philosophy of mind. In Fall 2020, I will join the [Developing Belief Network](https://www.developingbelief.com/) as a postdoctoral Project Director.
+I study intuitive theories, conceptual change, and folk philosophy of mind. I am currently a postdoctoral research associate in the Department of Anthropology at Stanford University, as well as the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -15,13 +15,13 @@ I am a postdoctoral research associate in the Department of Anthropology at Stan
 
 I am broadly interested in intuitive theories and conceptual change, with a focus on **folk philosophy of mind** — how ordinary people come to understand things like mental life, sentience, and personhood. I completed my Ph.D. in psychology in 2019, working primarily with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** ([lab website](https://markmanlab.stanford.edu)) and **[Carol Dweck](https://profiles.stanford.edu/carol-dweck)**.
 
-Most of my work takes the form of behavioral studies with 3- to 10-year-old children and adults. I am especially interested in applying "bottom-up" analysis approaches to exploring and quantifying similarities and differences in concepts across groups of people — such as people of different ages, or people from different cultural contexts.
+Most of my work takes the form of behavioral studies with 3- to 10-year-old children and adults. I am especially interested in applying "bottom-up" analysis approaches to exploring and quantifying similarities and differences in concepts across groups of people — such as people of different ages, or people from different cultural settings.
 
-Since 2016, I have been one of the core researchers on the [Mind & Spirit Project](http://spiritualcuriosityandthemind.stanford.edu/) (PI: **[Tanya Luhrmann](http://luhrmann.net/)**, Stanford University Department of Anthropology), which explores how people in various cultural contexts come to think about "the mind" and how that shapes their spiritual experiences. 
+Since 2016, I have been one of the core researchers on the [Mind & Spirit Project](https://themindandspiritproject.stanford.edu/) (PI: **[Tanya Luhrmann](http://luhrmann.net/)**, Stanford University Department of Anthropology), which explores how people in different cultural settings conceptualize "the mind" and how that shapes their spiritual experiences. Over the course of several years, our team of anthropologists and psychologists employed a variety of qualitative and quantitative methods to work with adults and children from many religious traditions located in urban and rural field sites in the US, Ghana, Thailand, China, and Vanuatu. For an initial overview of this project, see our recent [special issue](https://rai.onlinelibrary.wiley.com/toc/14679655/2020/26/S1) of the _Journal of the Royal Anthropological Institute_. 
 
-In Fall 2020, I will join the [Developing Belief Network](https://www.developingbelief.com/) (PIs: **[Rebekah Richert](https://ccl.ucr.edu/our-team/director/)**, Univeristy of California, Riverside, Department of Psychology; **[Kathleen Corriveau](https://www.bu.edu/wheelock/profile/kathleen-corriveau/)**, Boston University, Wheelock College of Education & Human Development) as a postdoctoral Project Director, helping to lead the development of an enduring network of developmental psychologists engaging in collaborative, multi-site research on the religious cognition and behavior across development, faiths, and cultural contexts. 
+In Fall 2020, I joined the [Developing Belief Network](https://www.developingbelief.com/) (PIs: **[Rebekah Richert](https://ccl.ucr.edu/our-team/director/)**, Univeristy of California, Riverside, Department of Psychology; **[Kathleen Corriveau](https://www.bu.edu/wheelock/profile/kathleen-corriveau/)**, Boston University, Wheelock College of Education & Human Development) as a postdoctoral Project Director, helping to lead the development of an enduring network of developmental psychologists engaging in collaborative, multi-site research on the religious cognition and behavior across development, faiths, and cultural contexts. 
 
-I also collaborate with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** and **[Derek Powell](http://www.derekmpowell.com/)** on projects related to modeling and intervening on lay theories to effect behavior change by way of conceptual change, especially in the health domain.
+I have also collaborated with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** and **[Derek Powell](http://www.derekmpowell.com/)** on projects related to modeling and intervening on lay theories to effect behavior change by way of conceptual change, especially in the health domain.
 
 #### Background
 
