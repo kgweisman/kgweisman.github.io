@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-10-18.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-01-04.pdf)]
 
 I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently a postdoctoral research associate in the Department of Anthropology at Stanford University, as well as the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -11,9 +11,11 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2020-10-18.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-01-04.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
+
+Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto, V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (in press). Sensing the presence of gods and spirits across cultures and faiths. [*joint first authors]
 
 **Weisman, K.**\*, & Luhrmann, T.M.\* (2020). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_. [*joint first authors] [[link](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.13245)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2020).pdf)]
 
@@ -31,10 +33,9 @@ Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children ass
 
 #### Articles Under Review
 
-**Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (under review). Concepts of mental life among adults and children in five cultures.
+**Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (under review after revision). Concepts of mental life among adults and children in five cultures.
 
-Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto,
-V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (under review). Sensing the presence of gods and spirits across cultures and faiths. [*joint first authors]
+Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (under review). To believe is not to think: A cross-cultural finding. 
 
 **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
