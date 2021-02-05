@@ -27,7 +27,7 @@ Roberts, S.O., **Weisman, K.**, Lane, J.D., Williams, A., Camp, N.P., Wang, M., 
 
 Kim, S., Kalish, C.W., **Weisman, K.**, Johnson, M.V., & Shutts, K. (2016). Young children choose to inform previously knowledgeable others. _Journal of Cognition and Development_, _17_(2), 320-340. [[link](http://www.tandfonline.com/doi/abs/10.1080/15248372.2014.952731)] [[pdf]({{ kgweisman.github.io }}/pub_files/Kim,%20Kalish,%20Weisman,%20Johnson,%20&%20Shutts%20(2016).pdf)]
 
-**Weisman, K.**, Johnson, M.V., & Shutts, K. (2015). Young children's automatic encoding of social categories. _Developmental Science_, _18_(6), 1036-1043. [[link](http://onlinelibrary.wiley.com/doi/10.1111/desc.12269/full)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Johnson,%20&%20Shutts%20(2015).pdf)]
+**Weisman, K.**, Johnson, M.V., & Shutts, K. (2015). Young children's automatic encoding of social categories. _Developmental Science_, _18_(6), 1036-1043. [[link](http://onlinelibrary.wiley.com/doi/10.1111/desc.12269/full)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman,%20Johnson,%20&%20Shutts%20(2015).pdf)] [FAQs]({{ kgweisman.github.io }}/pub_files/KW%20thoughts%20on%20auto-encoding%20analyses.pdf)]
 
 Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children associate racial groups with wealth: Evidence from South Africa. _Child Development_, _83_(6), 1884-1899. [[link](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8624.2012.01819.x/abstract)] [[pdf]({{ kgweisman.github.io }}/pub_files/Olson,%20Shutts,%20Kinzler,%20&%20Weisman%20(2012).pdf)]
 
