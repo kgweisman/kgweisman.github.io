@@ -1,8 +1,8 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-01-04.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-02-05.pdf)]
 
-I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently a postdoctoral research associate in the Department of Anthropology at Stanford University, as well as the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
+I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -17,11 +17,11 @@ I am broadly interested in intuitive theories and conceptual change, with a focu
 
 Most of my work takes the form of behavioral studies with 3- to 10-year-old children and adults. I am especially interested in applying "bottom-up" analysis approaches to exploring and quantifying similarities and differences in concepts across groups of people — such as people of different ages, or people from different cultural settings.
 
-Since 2016, I have been one of the core researchers on the [Mind & Spirit Project](https://themindandspiritproject.stanford.edu/) (PI: **[Tanya Luhrmann](http://luhrmann.net/)**, Stanford University Department of Anthropology), which explores how people in different cultural settings conceptualize "the mind" and how that shapes their spiritual experiences. Over the course of several years, our team of anthropologists and psychologists employed a variety of qualitative and quantitative methods to work with adults and children from many religious traditions located in urban and rural field sites in the US, Ghana, Thailand, China, and Vanuatu. For an initial overview of this project, see our recent [special issue](https://rai.onlinelibrary.wiley.com/toc/14679655/2020/26/S1) of the _Journal of the Royal Anthropological Institute_. 
+Since 2016, I have been one of the core researchers on the [Mind & Spirit Project](https://themindandspiritproject.stanford.edu/) (PI: **[Tanya Luhrmann](http://luhrmann.net/)**, Stanford University Department of Anthropology), which explores how people in different cultural settings conceptualize "the mind" and how that shapes their spiritual experiences. Over the course of several years, our team of anthropologists and psychologists employed a variety of qualitative and quantitative methods to work with adults and children from many religious traditions located in urban and rural field sites in the US, Ghana, Thailand, China, and Vanuatu. For an initial ethnographic observations, see our recent [special issue](https://rai.onlinelibrary.wiley.com/toc/14679655/2020/26/S1) of the _Journal of the Royal Anthropological Institute_; for our first quantative findings from the project, see our recent [article](https://www.pnas.org/content/118/5/e2016649118) in _PNAS_. 
 
 In Fall 2020, I joined the [Developing Belief Network](https://www.developingbelief.com/) (PIs: **[Rebekah Richert](https://ccl.ucr.edu/our-team/director/)**, Univeristy of California, Riverside, Department of Psychology; **[Kathleen Corriveau](https://www.bu.edu/wheelock/profile/kathleen-corriveau/)**, Boston University, Wheelock College of Education & Human Development) as a postdoctoral Project Director, helping to lead the development of an enduring network of developmental psychologists engaging in collaborative, multi-site research on the religious cognition and behavior across development, faiths, and cultural contexts. 
 
-I have also collaborated with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** and **[Derek Powell](http://www.derekmpowell.com/)** on projects related to modeling and intervening on lay theories to effect behavior change by way of conceptual change, especially in the health domain.
+I also collaborate with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** and **[Derek Powell](http://www.derekmpowell.com/)** on projects related to modeling and intervening on lay theories to effect behavior change by way of conceptual change, especially in the health domain (e.g., vaccine hesitancy).
 
 #### Background
 
