@@ -47,7 +47,7 @@ Letterie, M.C., Salo, V.C., Matsumoto, M., **Weisman, K.**, King, L.S., & Humphr
 
 #### Dissertation
 
-Weisman (2019). The development of conceptual representations of mental life. [[link](https://searchworks.stanford.edu/view/13342745)]  [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20(2019).pdf)]
+Weisman (2019). The development of conceptual representations of mental life. [[link](https://searchworks.stanford.edu/view/13342745)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20(2019).pdf)] [[4000 word précis]({{ kgweisman.github.io }}/pub_files/Weisman%20(2019%20precis).pdf)]
 
 #### Refereed Conference Papers
 
