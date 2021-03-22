@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-02-05.pdf)]
+[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-03-22.pdf)]
 
 I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -11,9 +11,11 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-02-05.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-03-22.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
 
 #### Journal Articles
+
+**Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (accepted). Concepts of mental life among adults and children in five cultures. _Nature Human Behavior_.
 
 Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto, V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (2021). Sensing the presence of gods and spirits across cultures and faiths. _Proceedings of the National Academy of Sciences_, _118_(5), e2016649118.  [*joint first authors] [[link](https://www.pnas.org/content/118/5/e2016649118)] [[pdf]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021)%20-%20SI.pdf)]
 
@@ -33,9 +35,7 @@ Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children ass
 
 #### Articles Under Review
 
-**Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (under review after revision). Concepts of mental life among adults and children in five cultures.
-
-Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (under review). To believe is not to think: A cross-cultural finding. 
+Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (under review after revision). To believe is not to think: A cross-cultural finding. 
 
 **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
