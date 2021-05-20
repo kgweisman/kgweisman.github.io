@@ -9,5 +9,4 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 * [PUBLICATIONS]({{ kgweisman.github.io }}/publications)
 * [TEACHING]({{ kgweisman.github.io }}/teaching)
 
-![Kara]({{ kgweisman.github.io }}/images/kgw_pic1.jpg)
-![Cat]({{ kgweisman.github.io }}/images/cat.jpg)
+![Kara]({{ kgweisman.github.io }}/images/kgw_pic.jpg)![Cat]({{ kgweisman.github.io }}/images/cat.jpg)
