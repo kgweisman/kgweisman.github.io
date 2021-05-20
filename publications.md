@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kweisman at stanford](mailto:kweisman@stanford.edu)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-03-22.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-05-20.pdf)]
 
 I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -11,7 +11,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-03-22.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kweisman@stanford.edu) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-05-20.pdf) to view my full CV._** _Analysis and experiment code for most of my recent studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
@@ -39,6 +39,8 @@ Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (under review after revision)
 
 **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
+Erickson-Davis, C., Bailenson, J., Corwin, A., Kurina, L., **Weisman, K.**, & Luhrmann, T.M. (under review after revision). The sense of presence: Lessons from virtual reality.
+
 Letterie, M.C., Salo, V.C., Matsumoto, M., **Weisman, K.**, King, L.S., & Humphreys, K.L. (under review). Mothers’ and fathers’ perceptions of children’s mental capacities and self-reported parenting behavior.
 
 #### Preprints
@@ -51,7 +53,9 @@ Weisman (2019). The development of conceptual representations of mental life. [[
 
 #### Refereed Conference Papers
 
-Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2020). “Think” and “believe” across cultures: A shared folk distinction between two cognitive attitudes in the US, Ghana, Thailand, China, and Vanuatu. Talk to be presented at CogSci 2020 (virtual meeting) and included in the Proceedings of the 42nd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
+**Weisman, K.**, Dweck, C.S., & Markman, E.M. (2021). Emotions as the product of body and mind: The hierarchical structure of folk concepts of mental life among US adults and children. Poster to be presented at CogSci 2021 (virtual meeting) and included in the Proceedings of the 43rd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
+
+Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2020). “Think” and “believe” across cultures: A shared folk distinction between two cognitive attitudes in the US, Ghana, Thailand, China, and Vanuatu. Talk to be presented at CogSci 2020 (virtual meeting) and included in the Proceedings of the 42nd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://cogsci.mindmodeling.org/2020/papers/0137/0137.pdf)]
 
 **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0229/0229.pdf)]
 
@@ -64,6 +68,8 @@ Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories t
 **Weisman, K.**, Markman, E.M., & Dweck, C.S. (2015). Reasoning about sentience and animacy: Children's and adults' inferences about the properties of unseen entities. Talk presented at CogSci 2015 (Pasadena, CA) and included in the Proceedings of the 37th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2015/papers/0450/paper0450.pdf)]
 
 #### Selected Posters & Presentations
+
+**Weisman, K.**, (2021, July). Intuitive theories of emotion: Insights from developmental and cultural comparisons. Talk to be presented as part of the [“Interdisciplinary Advances in Affective Cognition” pre-conference workshop](https://affcog.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting.
 
 **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2020, July). The development of conceptual representations of mental life in five cultural contexts. Talk presented as part of the [“Cognition, Collectives, and Human Culture” pre-conference workshop](https://cognitioncollectivesandculture.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting. [[video](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)]
 
