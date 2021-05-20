@@ -10,5 +10,5 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 * [TEACHING]({{ kgweisman.github.io }}/teaching)
 
 
-<img src="images/kgw_pic.jpg" alt="Kara" width="150"/>
-<img src="images/cat.jpg" alt="Cat" width="150"/>
+<img src="images/kgw_pic.jpg" alt="Kara" height="150"/>
+<img src="images/cat.jpg" alt="Cat" height="150"/>
