@@ -12,3 +12,4 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 <img src="images/kgw_pic.jpg" alt="Kara" height="150"/>
 <img src="images/cat.jpg" alt="Cat" height="150"/>
+<img src="images/art.jpg" alt="Art" height="150"/>
