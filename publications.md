@@ -17,6 +17,8 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (accepted). Concepts of mental life among adults and children in five cultures. _Nature Human Behavior_.
 
+Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (provisionally accepted). To believe is not to think: A cross-cultural finding. _Open Mind_
+
 Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto, V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (2021). Sensing the presence of gods and spirits across cultures and faiths. _Proceedings of the National Academy of Sciences_, _118_(5), e2016649118.  [*joint first authors] [[link](https://www.pnas.org/content/118/5/e2016649118)] [[pdf]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021)%20-%20SI.pdf)] [[Discussion on "Many Minds" podcast](https://manyminds.libsyn.com/why-some-see-spirits)] 
 
 **Weisman, K.**\*, & Luhrmann, T.M.\* (2020). What anthropologists can learn from psychologists, and the other way around. _Mind and Spirit: A comparative theory about representation of mind and the experience of spirit_; a special issue of the _Journal of the Royal Anthropological Institute_, _26_(S1). [*joint first authors] [[link](https://rai.onlinelibrary.wiley.com/doi/10.1111/1467-9655.13245)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2020).pdf)]
@@ -35,21 +37,19 @@ Olson, K.R., Shutts, K., Kinzler, K.D., & **Weisman, K.G.** (2012). Children ass
 
 #### Articles Under Review
 
-Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (under review after revision). To believe is not to think: A cross-cultural finding. 
-
 **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
 Erickson-Davis, C., Bailenson, J., Corwin, A., Kurina, L., **Weisman, K.**, & Luhrmann, T.M. (under review after revision). The sense of presence: Lessons from virtual reality.
 
-Letterie, M.C., Salo, V.C., Matsumoto, M., **Weisman, K.**, King, L.S., & Humphreys, K.L. (under review). Mothers’ and fathers’ perceptions of children’s mental capacities and self-reported parenting behavior.
-
-#### Preprints
-
-**Weisman, K.** (in prep). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
+Salo, V.C., Letterie, M.C., **Weisman, K.**, King, L.S., & Humphreys, K.L. (under review). Perceptions of children’s mental capacities and self-reported parenting behavior. [[preprint](https://osf.io/8uzxn/)]
 
 #### Dissertation
 
 Weisman (2019). The development of conceptual representations of mental life. [[link](https://searchworks.stanford.edu/view/13342745)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20(2019).pdf)] [[4000 word précis]({{ kgweisman.github.io }}/pub_files/Weisman%20(2019%20precis).pdf)]
+
+#### Other Preprints
+
+**Weisman, K.**. Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
 
 #### Refereed Conference Papers
 
