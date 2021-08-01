@@ -43,7 +43,7 @@ Weisman (2019). The development of conceptual representations of mental life. [[
 Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvelali?s=20):
 
 <img src="images/natvelali_sketch1_kgw.jpg" alt="Natvelali sketch part 1" height="300"/>
-<img src="images/natvelali_sketch2_kgw.jpg" alt="Natvelali sketch part 2" height="300"/>
+<img src="images/natvelali_sketch2_kgw.jpeg" alt="Natvelali sketch part 2" height="300"/>
 
 #### Other Preprints
 
