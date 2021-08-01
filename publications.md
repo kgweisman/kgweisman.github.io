@@ -45,8 +45,6 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 <img src="images/natvelali_sketch1_kgw.jpg" alt="Natvelali sketch part 1" height="200"/>
 <img src="images/natvelali_sketch2_kgw.jpg" alt="Natvelali sketch part 2" height="200"/>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congratulations, Dr. Weisman!! 🎉 <a href="https://twitter.com/kgweisman?ref_src=twsrc%5Etfw">@kgweisman</a> uses a bottom-up approach to (1) discover the “conceptual units” of folk theories of mental life, (2) test how these units are organized, and (3) chart how this organization changes across development. <a href="https://t.co/i2LBTmATmX">pic.twitter.com/i2LBTmATmX</a></p>&mdash; Natalia Vélez (@natvelali) <a href="https://twitter.com/natvelali/status/1114268015002931200?ref_src=twsrc%5Etfw">April 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 #### Other Preprints
 
 1. **Weisman, K.**. Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[preprint]({{ kgweisman.github.io }}/pub_files/Weisman%20(under%20review).pdf)]
