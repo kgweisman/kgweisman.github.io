@@ -42,8 +42,8 @@ Weisman (2019). The development of conceptual representations of mental life. [[
 
 Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvelali?s=20):
 
-<img src="images/natvelali_sketch1_kgw.jpg" alt="Natvelali sketch part 1" height="300"/>
-<img src="images/natvelali_sketch2_kgw.jpeg" alt="Natvelali sketch part 2" height="300"/>
+<img src="images/natvelali_sketch1_kgw.jpg" alt="Natvelali sketch part 1" height="320"/>
+<img src="images/natvelali_sketch2_kgw.jpeg" alt="Natvelali sketch part 2" height="320"/>
 
 #### Other Preprints
 
@@ -52,15 +52,23 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 #### Refereed Conference Papers
 
 1. **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2021). Emotions as the product of body and mind: The hierarchical structure of folk concepts of mental life among US adults and children. Poster to be presented at CogSci 2021 (virtual meeting) and included in the Proceedings of the 43rd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
+
 2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2020). “Think” and “believe” across cultures: A shared folk distinction between two cognitive attitudes in the US, Ghana, Thailand, China, and Vanuatu. Talk to be presented at CogSci 2020 (virtual meeting) and included in the Proceedings of the 42nd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://cogsci.mindmodeling.org/2020/papers/0137/0137.pdf)]
+
 3. **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2018). Folk philosophy of mind: Changes in conceptual structure between 4-9y of age. Talk presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0229/0229.pdf)]
+
 4. Powell, D., **Weisman, K.**, & Markman, E.M. (2018). Articulating lay theories through graphical models: A study of beliefs surrounding vaccination decisions. Talk presented at CogSci 2018 (Madison, WI) and included in the Proceedings of the 40th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](http://mindmodeling.org/cogsci2018/papers/0183/0183.pdf)]
+
 5. **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2017). Children's intuitions about the structure of mental life. Talk presented at CogSci 2017 (London, UK) and included in the Proceedings of the 39th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2017/papers/0256/paper0256.pdf)]
+
 6. **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2016). Varieties of experience: A new look at folk philosophy of mind. Talk presented at CogSci 2016 (Philadelphia, PA) and included in the Proceedings of the 38th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2016/papers/0472/paper0472.pdf)]
+
 7. **Weisman, K.**, Markman, E.M., & Dweck, C.S. (2015). Reasoning about sentience and animacy: Children's and adults' inferences about the properties of unseen entities. Talk presented at CogSci 2015 (Pasadena, CA) and included in the Proceedings of the 37th Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://mindmodeling.org/cogsci2015/papers/0450/paper0450.pdf)]
 
 #### Recent Posters & Presentations
 1. **Weisman, K.**, (2021, July). Intuitive theories of emotion: Insights from developmental and cultural comparisons. Talk presented as part of the [“Interdisciplinary Advances in Affective Cognition” pre-conference workshop](https://affcog.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting.
+
 2. **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2020, July). The development of conceptual representations of mental life in five cultural contexts. Talk presented as part of the [“Cognition, Collectives, and Human Culture” pre-conference workshop](https://cognitioncollectivesandculture.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting. [[video](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)]
+
 3. **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2019, March). Beliefs about the mental lives of supernatural beings: A cross-cultural comparison. Talk presented at the Biennial Meeting of the Society for Research in Child Development, Baltimore, MD.
 
