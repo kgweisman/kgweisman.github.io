@@ -17,7 +17,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 1. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (in press). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behavior_. [[github repo](https://github.com/kgweisman/mental-life-culture-development)]
 
-2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (accepted). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_. [[github repo](https://github.com/kgweisman/think_believe)]
+2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (accepted). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_. [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] [[github repo](https://github.com/kgweisman/think_believe)]
 
 3. Erickson-Davis, C., Bailenson, J., Corwin, A., Kurina, L., **Weisman, K.**, & Luhrmann, T.M. (2021). The sense of presence: Lessons from virtual reality. _Religion, Brain, & Behavior_. [[link](https://www.tandfonline.com/doi/full/10.1080/2153599X.2021.1953573)] [[pdf]({{ kgweisman.github.io }}/pub_files/Erickson-Davis%20et%20al.%20(2021).pdf)] 
 
@@ -66,7 +66,7 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 
 #### Refereed Conference Papers
 
-1. **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2021). Emotions as the product of body and mind: The hierarchical structure of folk concepts of mental life among US adults and children. Poster to be presented at CogSci 2021 (virtual meeting) and included in the Proceedings of the 43rd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society.
+1. **Weisman, K.**, Dweck, C.S., & Markman, E.M. (2021). Emotions as the product of body and mind: The hierarchical structure of folk concepts of mental life among US adults and children. Poster to be presented at CogSci 2021 (virtual meeting) and included in the Proceedings of the 43rd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link to paper](https://escholarship.org/uc/item/5m41d4r8)] [[poster]({{ kgweisman.github.io }}/pub_files/Weisman,%20Dweck,%20&%20Markman,%20(2021%20poster).pdf)]
 
 2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2020). “Think” and “believe” across cultures: A shared folk distinction between two cognitive attitudes in the US, Ghana, Thailand, China, and Vanuatu. Talk to be presented at CogSci 2020 (virtual meeting) and included in the Proceedings of the 42nd Annual Meeting of the Cognitive Science Society. Austin, TX: Cognitive Science Society. [[link](https://cogsci.mindmodeling.org/2020/papers/0137/0137.pdf)]
 
