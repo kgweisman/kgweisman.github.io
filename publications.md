@@ -17,7 +17,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 1. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (in press). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behavior_. [[github repo](https://github.com/kgweisman/mental-life-culture-development)]
 
-2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (accepted). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_. [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] [[github repo](https://github.com/kgweisman/think_believe)]
+2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2021). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_. [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] [[github repo](https://github.com/kgweisman/think_believe)]
 
 3. Erickson-Davis, C., Bailenson, J., Corwin, A., Kurina, L., **Weisman, K.**, & Luhrmann, T.M. (2021). The sense of presence: Lessons from virtual reality. _Religion, Brain, & Behavior_. [[link](https://www.tandfonline.com/doi/full/10.1080/2153599X.2021.1953573)] [[pdf]({{ kgweisman.github.io }}/pub_files/Erickson-Davis%20et%20al.%20(2021).pdf)] 
 
@@ -43,7 +43,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 13. Luhrmann, T.M., & **Weisman, K.** (invited submission under review). Porosity is the heart of religion.
 
-14. Richert, R.A., **Weisman, K.**, Ghossainy, M.E., Lesage, K.A., Reyes-Jaquez, B., & Corriveau, K. (invited submission under review). Researching the Development of Religious Beliefs and Behaviors.
+14. Richert, R.A., **Weisman, K.**, Lesage, K.A., Ghossainy, M.E., Reyes-Jaquez, B., & Corriveau, K. (invited submission under review). Researching the development of religious beliefs and behaviors.
 
 15. **Weisman, K.**, King, L.S., & Humphreys, K.L. (submitted). Beliefs about the development of mental life. [[github repo](https://github.com/kgweisman/baby_mental_life_ms), including fully reproducible manuscript and supplemental materials]
 
