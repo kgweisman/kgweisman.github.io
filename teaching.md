@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-20.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-23.pdf)]
 
 I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -10,6 +10,8 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 * [TEACHING]({{ kgweisman.github.io }}/teaching)
 
 ### Teaching
+
+All teaching was completed at Stanford University.
 
 #### PSYCH 141: Cognitive Development
 * Fall 2017: Guest Lecturer (Instructor: [Hyo Gweon](http://web.stanford.edu/~hyo/Home.html))

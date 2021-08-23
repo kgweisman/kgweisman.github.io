@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-20.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-23.pdf)]
 
 I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -11,11 +11,11 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-20.pdf) to view my full CV._** _Analysis code for most studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-23.pdf) to view my full CV._** _Analysis code for most studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
-1. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (in press). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behavior_. [[github repo](https://github.com/kgweisman/mental-life-culture-development)]
+1. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (in press). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behaviour_. [[github repo](https://github.com/kgweisman/mental-life-culture-development)]
 
 2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2021). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_. [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] [[github repo](https://github.com/kgweisman/think_believe)]
 
@@ -41,11 +41,11 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 12. **Weisman, K.** (under review after revision). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
-13. Luhrmann, T.M., & **Weisman, K.** (invited submission under review). Porosity is the heart of religion.
+13. **Weisman, K.**, King, L.S., & Humphreys, K.L. (under review). Beliefs about the development of mental life. [[github repo](https://github.com/kgweisman/baby_mental_life_ms), including fully reproducible manuscript and supplemental materials]
 
-14. Richert, R.A., **Weisman, K.**, Lesage, K.A., Ghossainy, M.E., Reyes-Jaquez, B., & Corriveau, K. (invited submission under review). Researching the development of religious beliefs and behaviors.
+14. Luhrmann, T.M., & **Weisman, K.** (invited submission under review). Porosity is the heart of religion.
 
-15. **Weisman, K.**, King, L.S., & Humphreys, K.L. (submitted). Beliefs about the development of mental life. [[github repo](https://github.com/kgweisman/baby_mental_life_ms), including fully reproducible manuscript and supplemental materials]
+15. Richert, R.A., **Weisman, K.**, Lesage, K.A., Ghossainy, M.E., Reyes-Jaquez, B., & Corriveau, K. (invited submission under review). Researching the development of religious beliefs and behaviors.
 
 16. Powell, D., **Weisman, K.**, & Markman, E.M. (submitted). Modeling and leveraging intuitive theories to improve vaccine attitudes. [[github repo](https://github.com/derekpowell/int-theory-vacc), including fully reproducible manuscript and supplemental materials]
 
