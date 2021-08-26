@@ -13,7 +13,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 #### Current work
 
-I am broadly interested in intuitive theories and conceptual change, with a focus on **folk philosophy of mind** — how ordinary people come to understand things like mental life, personhood, and the relationshiph between mind and body. I completed my Ph.D. in psychology in 2019, working primarily with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** ([lab website](https://markmanlab.stanford.edu)) and **[Carol Dweck](https://profiles.stanford.edu/carol-dweck)**.
+I am broadly interested in intuitive theories and conceptual change, with a focus on **folk philosophy of mind** — how ordinary people come to understand things like mental life, personhood, and the relationship between mind and body. I completed my Ph.D. in psychology in 2019, working primarily with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** ([lab website](https://markmanlab.stanford.edu)) and **[Carol Dweck](https://profiles.stanford.edu/carol-dweck)**.
 
 Most of my work takes the form of behavioral studies with 3- to 10-year-old children and adults. I am especially interested in applying "bottom-up" analysis approaches to exploring and quantifying similarities and differences in concepts across groups of people — such as people of different ages, or people from different cultural settings.
 
