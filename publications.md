@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-23.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-31.pdf)]
 
 I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -11,11 +11,11 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-23.pdf) to view my full CV._** _Analysis code for most studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-31.pdf) to view my full CV._** _Analysis code for most studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
-1. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (in press). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behaviour_. [[github repo](https://github.com/kgweisman/mental-life-culture-development)] [[link](https://www.nature.com/articles/s41562-021-01184-8)] [[open-access link](https://rdcu.be/cv9Tj)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021)%20-%20SI.pdf)] [[News & Views piece by Bertram Malle](https://www.nature.com/articles/s41562-021-01183-9)]
+1. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (in press). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behaviour_. [[github repo](https://github.com/kgweisman/mental-life-culture-development)] [[link](https://www.nature.com/articles/s41562-021-01184-8)] [[open-access link](https://rdcu.be/cv9Tj)] [[PDF]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021)%20-%20SI.pdf)] [[News & Views piece by Bertram Malle](https://www.nature.com/articles/s41562-021-01183-9)]
 
 2. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2021). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_. [[github repo](https://github.com/kgweisman/think_believe)] [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] 
 
@@ -39,7 +39,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 #### Articles Under Review
 
-12. **Weisman, K.** (under review after revision). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
+12. **Weisman, K.** (under review). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning.
 
 13. **Weisman, K.**, King, L.S., & Humphreys, K.L. (under review). Beliefs about the development of mental life. [[github repo](https://github.com/kgweisman/baby_mental_life_ms), including fully reproducible manuscript and supplemental materials]
 
