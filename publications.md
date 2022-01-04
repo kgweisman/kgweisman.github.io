@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-31.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**twitter**: [@kgweisman](https://twitter.com/kgweisman)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2022-01-04.pdf)]
 
 I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -11,19 +11,19 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2021-08-31.pdf) to view my full CV._** _Analysis code for most studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2022-01-04.pdf) to view my full CV._** _Analysis code for most studies is available on [Github](https://github.com/kgweisman). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
-1. Luhrmann, T.M., & **Weisman, K.** (accepted). Porosity is the heart of religion. _Current Directions in Psychological Science_.
+1. Luhrmann, T.M., & **Weisman, K.** (in press). Porosity is the heart of religion. _Current Directions in Psychological Science_.
 
 2. Richert, R.A., **Weisman, K.**, Lesage, K.A., Ghossainy, M.E., Reyes-Jaquez, B., & Corriveau, K. (in press). Researching the development of religious beliefs and behaviors. _Advances in Child Development and Behavior_.
 
-3. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (in press). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behaviour_. [[github repo](https://github.com/kgweisman/mental-life-culture-development)] [[link](https://www.nature.com/articles/s41562-021-01184-8)] [[open-access link](https://rdcu.be/cv9Tj)] [[PDF]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021)%20-%20SI.pdf)] [[News & Views piece by Bertram Malle](https://www.nature.com/articles/s41562-021-01183-9)]
+3. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (2021). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behaviour_, _5_, 1358–1368. [[github repo](https://github.com/kgweisman/mental-life-culture-development)] [[link](https://www.nature.com/articles/s41562-021-01184-8)] [[open-access link](https://rdcu.be/cv9Tj)] [[PDF]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021)%20-%20SI.pdf)] [[News & Views piece by Bertram Malle](https://www.nature.com/articles/s41562-021-01183-9)]
 
-4. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2021). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_. [[github repo](https://github.com/kgweisman/think_believe)] [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] 
+4. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2021). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_, _5_, 91–99. [[github repo](https://github.com/kgweisman/think_believe)] [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] 
 
-5. Erickson-Davis, C., Bailenson, J., Corwin, A., Kurina, L., **Weisman, K.**, & Luhrmann, T.M. (2021). The sense of presence: Lessons from virtual reality. _Religion, Brain, & Behavior_. [[link](https://www.tandfonline.com/doi/full/10.1080/2153599X.2021.1953573)] [[pdf]({{ kgweisman.github.io }}/pub_files/Erickson-Davis%20et%20al.%20(2021).pdf)] 
+5. Erickson-Davis, C., Bailenson, J., Corwin, A., Kurina, L., **Weisman, K.**, & Luhrmann, T.M. (2021). The sense of presence: Lessons from virtual reality. _Religion, Brain, & Behavior_, _11_(3), 335-351. [[link](https://www.tandfonline.com/doi/full/10.1080/2153599X.2021.1953573)] [[pdf]({{ kgweisman.github.io }}/pub_files/Erickson-Davis%20et%20al.%20(2021).pdf)] 
 
 6. Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto, V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (2021). Sensing the presence of gods and spirits across cultures and faiths. _Proceedings of the National Academy of Sciences_, _118_(5), e2016649118.  [*joint first authors] [[github repo](https://github.com/kgweisman/sense_spirit)] [[link](https://www.pnas.org/content/118/5/e2016649118)] [[pdf]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021)%20-%20SI.pdf)] [[Discussion on "Many Minds" podcast](https://manyminds.libsyn.com/why-some-see-spirits)]
 
