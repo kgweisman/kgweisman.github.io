@@ -8,6 +8,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
 * [PUBLICATIONS]({{ kgweisman.github.io }}/publications)
 * [TEACHING]({{ kgweisman.github.io }}/teaching)
+* [ART]({{ kgweisman.github.io }}/art)
 
 ### About me
 
