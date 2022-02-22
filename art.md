@@ -12,28 +12,23 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 I like to doodle.
 
- [![image alt text]({{ kgweisman.github.io }}/images/IMG_0282.jpeg)]({{ kgweisman.github.io }}/images/IMG_0282.jpeg))
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0282.jpeg)]({{ kgweisman.github.io }}/images/IMG_0282.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0314.jpeg)]({{ kgweisman.github.io }}/images/IMG_0314.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0315.jpeg)]({{ kgweisman.github.io }}/images/IMG_0315.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0316.jpeg)]({{ kgweisman.github.io }}/images/IMG_0316.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0317.jpeg)]({{ kgweisman.github.io }}/images/IMG_0317.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0318.jpeg)]({{ kgweisman.github.io }}/images/IMG_0318.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0319.jpeg)]({{ kgweisman.github.io }}/images/IMG_0319.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0320.jpeg)]({{ kgweisman.github.io }}/images/IMG_0320.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0321.jpeg)]({{ kgweisman.github.io }}/images/IMG_0321.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0322.jpeg)]({{ kgweisman.github.io }}/images/IMG_0322.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0323.jpeg)]({{ kgweisman.github.io }}/images/IMG_0323.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0324.jpeg)]({{ kgweisman.github.io }}/images/IMG_0324.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0325.jpeg)]({{ kgweisman.github.io }}/images/IMG_0325.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_7483.jpeg)]({{ kgweisman.github.io }}/images/IMG_7483.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0287.jpeg)]({{ kgweisman.github.io }}/images/IMG_0287.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_0288.jpeg)]({{ kgweisman.github.io }}/images/IMG_0288.jpeg){ width=150px,height:150px }
+[![image alt text]({{ kgweisman.github.io }}/images/IMG_1030.jpeg)]({{ kgweisman.github.io }}/images/IMG_1030.jpeg){ width=150px,height:150px }
+
  
-<img src="images/IMG_0282.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0287.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0288.jpeg" alt="Art" height="150" width="150"/>
 
-<img src="images/IMG_0314.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0315.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0316.jpeg" alt="Art" height="150" width="150"/>
-
-<img src="images/IMG_0317.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0318.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0319.jpeg" alt="Art" height="150" width="150"/>
-
-<img src="images/IMG_0320.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0321.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0322.jpeg" alt="Art" height="150" width="150"/>
-
-<img src="images/IMG_0323.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0324.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_0325.jpeg" alt="Art" height="150" width="150"/>
-
-<img src="images/IMG_0911.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_1030.jpeg" alt="Art" height="150" width="150"/>
-<img src="images/IMG_7483.jpeg" alt="Art" height="150" width="150"/>
