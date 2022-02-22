@@ -12,6 +12,8 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 I like to doodle.
 
+ [![image alt text]({{ kgweisman.github.io }}/images/IMG_0282.jpeg)]({{ kgweisman.github.io }}/images/IMG_0282.jpeg))
+ 
 <img src="images/IMG_0282.jpeg" alt="Art" height="150" width="150"/>
 <img src="images/IMG_0287.jpeg" alt="Art" height="150" width="150"/>
 <img src="images/IMG_0288.jpeg" alt="Art" height="150" width="150"/>
