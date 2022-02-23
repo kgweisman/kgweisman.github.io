@@ -12,7 +12,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 I like to doodle. In the past few years I have been exploring the tensions between precision and approximation, logic and intuition, planning and spontaneity. These pieces were drawn freehand using some combination of ink and colored pencil, with no rulers or digital manipulation. 
 
-If you'd like to use any of my art, please [email me](mailto:kgweisman@gmail.com). All images © 2022, Kara Weisman.
+If you'd like to use any of my art, please [email me](mailto:kgweisman@gmail.com).
 
 <a href="https://kgweisman.github.io/images/IMG_0317.jpeg" title="doodle"><img src="images/IMG_0317.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0318.jpeg" title="doodle"><img src="images/IMG_0318.jpeg" width="150" height="150"></a>
@@ -32,3 +32,5 @@ If you'd like to use any of my art, please [email me](mailto:kgweisman@gmail.com
 <a href="https://kgweisman.github.io/images/IMG_0911.jpeg" title="doodle"><img src="images/IMG_0911.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0316.jpeg" title="doodle"><img src="images/IMG_0316.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0282.jpeg" title="doodle"><img src="images/IMG_0282.jpeg" width="150" height="150"></a>
+
+All images © 2022, Kara Weisman.
