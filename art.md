@@ -23,9 +23,9 @@ If you'd like to use any of my art, please [email me](mailto:kgweisman@gmail.com
 <a href="https://kgweisman.github.io/images/IMG_7485.jpeg" title="doodle"><img src="images/IMG_7485.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0322.jpeg" title="doodle"><img src="images/IMG_0322.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0323.jpeg" title="doodle"><img src="images/IMG_0323.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_1030.jpeg" title="doodle"><img src="images/IMG_1030.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0324.jpeg" title="doodle"><img src="images/IMG_0324.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0325.jpeg" title="doodle"><img src="images/IMG_0325.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_1030.jpeg" title="doodle"><img src="images/IMG_1030.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0314.jpeg" title="doodle"><img src="images/IMG_0314.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0288.jpeg" title="doodle"><img src="images/IMG_0288.jpeg" width="150" height="150"></a>
 <a href="https://kgweisman.github.io/images/IMG_0315.jpeg" title="doodle"><img src="images/IMG_0315.jpeg" width="150" height="150"></a>
