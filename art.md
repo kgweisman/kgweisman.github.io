@@ -14,23 +14,23 @@ I like to doodle. In the past few years I have been exploring the tensions betwe
 
 If you'd like to use any of my art, please [email me](mailto:kgweisman@gmail.com).
 
-<a href="https://kgweisman.github.io/images/IMG_0317.jpeg" title="doodle"><img src="images/IMG_0317.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0318.jpeg" title="doodle"><img src="images/IMG_0318.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_7483.jpeg" title="doodle"><img src="images/IMG_7483.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0319.jpeg" title="doodle"><img src="images/IMG_0319.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0287.jpeg" title="doodle"><img src="images/IMG_0287.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0320.jpeg" title="doodle"><img src="images/IMG_0320.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_7485.jpeg" title="doodle"><img src="images/IMG_7485.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0322.jpeg" title="doodle"><img src="images/IMG_0322.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0323.jpeg" title="doodle"><img src="images/IMG_0323.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0324.jpeg" title="doodle"><img src="images/IMG_0324.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0325.jpeg" title="doodle"><img src="images/IMG_0325.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_1030.jpeg" title="doodle"><img src="images/IMG_1030.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0314.jpeg" title="doodle"><img src="images/IMG_0314.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0288.jpeg" title="doodle"><img src="images/IMG_0288.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0315.jpeg" title="doodle"><img src="images/IMG_0315.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0911.jpeg" title="doodle"><img src="images/IMG_0911.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0316.jpeg" title="doodle"><img src="images/IMG_0316.jpeg" width="150" height="150"></a>
-<a href="https://kgweisman.github.io/images/IMG_0282.jpeg" title="doodle"><img src="images/IMG_0282.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0317.jpeg" title="doodle"><img src="images/IMG_0317sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0318.jpeg" title="doodle"><img src="images/IMG_0318sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_7483.jpeg" title="doodle"><img src="images/IMG_7483sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0319.jpeg" title="doodle"><img src="images/IMG_0319sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0287.jpeg" title="doodle"><img src="images/IMG_0287sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0320.jpeg" title="doodle"><img src="images/IMG_0320sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_7485.jpeg" title="doodle"><img src="images/IMG_7485sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0322.jpeg" title="doodle"><img src="images/IMG_0322sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0323.jpeg" title="doodle"><img src="images/IMG_0323sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0324.jpeg" title="doodle"><img src="images/IMG_0324sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0325.jpeg" title="doodle"><img src="images/IMG_0325sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_1030.jpeg" title="doodle"><img src="images/IMG_1030sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0314.jpeg" title="doodle"><img src="images/IMG_0314sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0288.jpeg" title="doodle"><img src="images/IMG_0288sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0315.jpeg" title="doodle"><img src="images/IMG_0315sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0911.jpeg" title="doodle"><img src="images/IMG_0911sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0316.jpeg" title="doodle"><img src="images/IMG_0316sm.jpeg" width="150" height="150"></a>
+<a href="https://kgweisman.github.io/images/IMG_0282.jpeg" title="doodle"><img src="images/IMG_0282sm.jpeg" width="150" height="150"></a>
 
 All images © 2022, Kara Weisman.
