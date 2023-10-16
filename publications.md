@@ -59,15 +59,15 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 
 #### White Papers and Preprints
 
-1. **Weisman, K.**, Ghossainy, M.E., Lesage, K. A., Reyes-Jaquez, B., Williams, A.J., Payir, A., Corriveau, K.H., & Richert, R.A. (2023). Developing Belief Network Authorship Guidelines. OSF Preprints: https://osf.io/rwhjd 
+1. **Weisman, K.**, Ghossainy, M.E., Lesage, K. A., Reyes-Jaquez, B., Williams, A.J., Payir, A., Corriveau, K.H., & Richert, R.A. (2023). Developing Belief Network Authorship Guidelines. [[OSF Preprint](https://osf.io/rwhjd)] 
 
-2. **Weisman, K.** (2021). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning. OSF Preprints: https://osf.io/4rnw3 
+2. **Weisman, K.** (2021). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning. [[OSF Preprint](https://osf.io/4rnw3)]
 
-3. **Weisman, K.**, King, L.S., & Humphreys, K.L. (2021). Perceptions of the development of mental life. Github repo with full reproducible manuscript: https://github.com/kgweisman/baby_mental_life_ms 
+3. **Weisman, K.**, King, L.S., & Humphreys, K.L. (2021). Perceptions of the development of mental life. [[Github repo with full reproducible manuscript](https://github.com/kgweisman/baby_mental_life_ms)]
 
-4. Salo, V.C., Letterie, M.C., **Weisman, K.**, King, L.S., & Humphreys, K.L. (2021). Parents’ perceptions of young children’s minds are associated with their interest in and behavior toward their own. OSF Preprints: https://osf.io/8uzxn/ 
+4. Salo, V.C., Letterie, M.C., **Weisman, K.**, King, L.S., & Humphreys, K.L. (2021). Parents’ perceptions of young children’s minds are associated with their interest in and behavior toward their own. [[OSF Preprint](https://osf.io/8uzxn/)]
 
-5. **Weisman, K.** (2018). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. Github Preprint: https://kgweisman.github.io/pub_files/Weisman%20(under%20review).pdf 
+5. **Weisman, K.** (2018). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[Github Preprint](https://kgweisman.github.io/pub_files/Weisman%20(under%20review).pdf)] 
 
 #### Refereed Conference Papers
 
