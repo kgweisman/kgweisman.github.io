@@ -1,8 +1,8 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2023-10-16.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2024-03-26.pdf)]
 
-I study intuitive theories, conceptual change, and folk philosophy of mind, with particular attention to the ways these conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
+I study folk theories and their role in shaping people’s behaviors, relationships, and phenomenal experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -16,7 +16,7 @@ I study intuitive theories, conceptual change, and folk philosophy of mind, with
 
 #### Journal Articles
 
-1. **Weisman, K.**\*, Ghossainy, M.E.\*, Williams, A.J., Payir, A., Lesage, K.A., Reyes-Jaquez, B., Amin, T.G., Anggoro, F.K., Burdett, E.R.R., Chen, E.E., Coetzee, L., Coley, J.D., Dahl, A., Dautel, J.B., Davis, H.E., Davis, E.L., Diesendruck, G., Evans, D., Feeney, A., Gurven, M., Jee, B.D., Kramer, H.J., Kushnir, T., Kyriakopoulou, N., McAuliffe, K., McLaughlin, A., Nichols, S., Nicolopoulou, A., Rockers, P.C., Shneidman, L., Skopeliti, I., Srinivasan, M., Tarullo, A.R., Taylor, L.K., Yu, Y., Yucel, M., Zhao, X., Corriveau, K.H., & Richert, R.A., on behalf of the Developing Belief Network (accepted). The development and diversity of religious cognition and behavior: Protocol for Wave 1 data collection with children and parents by the Developing Belief Network. _PLOS ONE_. [*joint first authors]
+1. **Weisman, K.**\*, Ghossainy, M.E.\*, Williams, A.J., Payir, A., Lesage, K.A., Reyes-Jaquez, B., Amin, T.G., Anggoro, F.K., Burdett, E.R.R., Chen, E.E., Coetzee, L., Coley, J.D., Dahl, A., Dautel, J.B., Davis, H.E., Davis, E.L., Diesendruck, G., Evans, D., Feeney, A., Gurven, M., Jee, B.D., Kramer, H.J., Kushnir, T., Kyriakopoulou, N., McAuliffe, K., McLaughlin, A., Nichols, S., Nicolopoulou, A., Rockers, P.C., Shneidman, L., Skopeliti, I., Srinivasan, M., Tarullo, A.R., Taylor, L.K., Yu, Y., Yucel, M., Zhao, X., Corriveau, K.H., & Richert, R.A., on behalf of the Developing Belief Network (2024). The development and diversity of religious cognition and behavior: Protocol for Wave 1 data collection with children and parents by the Developing Belief Network. _PLOS ONE_, _19_(3): e0292755. [*joint first authors]
 
 2. Powell, D., **Weisman, K.**, & Markman, E.M. (2023). Modeling and leveraging intuitive theories to improve vaccine attitudes. _Journal of Experimental Psychology: General_, _152_(5), 1379-1395. [[link](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001324)] [[github repo, including fully reproducible manuscript and supplemental materials](https://github.com/derekpowell/int-theory-vacc)]
 
@@ -89,11 +89,14 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 
 #### Other (Recent) Posters & Presentations
 
-1. **Weisman, K.**, Lesage, K.A., Richert, R.A., & Corriveau, K. (organizers; 2022, April). Theory-theory turns thirty-something: Reflections and new directions. Preconference workshop, to be conducted prior to the Biennial Meeting of the Cognitive Developmental Society, Madison, WI.
+1. **Weisman, K.** (2024, March). What can we learn about folk theories from children’s concepts of supernatural beings? Talk presented as part of the "Building a Global Research Collaborative: Experiences and Findings from the Developing Belief Network"" pre-conference workshop, prior to the Biennial Meeting of the Cognitive Development Society, Pasadena, CA.
 
-2. **Weisman, K.**, (2021, July). Intuitive theories of emotion: Insights from developmental and cultural comparisons. Talk presented as part of the [“Interdisciplinary Advances in Affective Cognition” pre-conference workshop](https://affcog.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting.
+2. **Weisman, K.**, Amin, T.G., Anggoro, F.K., Ghossainy, M.E., Jee, B.D., Srinivasan, M., & Richert, R.A. (2024, March). Does God have to follow the rules? Folk sociology in concepts of religious agents across cultural-religious settings. Poster presented at the Biennial Meeting of the Cognitive Development Society, Pasadena, CA.
 
-3. **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2020, July). The development of conceptual representations of mental life in five cultural contexts. Talk presented as part of the [“Cognition, Collectives, and Human Culture” pre-conference workshop](https://cognitioncollectivesandculture.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting. [[video](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)]
+3. **Weisman, K.**, Lesage, K.A., Richert, R.A., & Corriveau, K. (organizers; 2022, April). Theory-theory turns thirty-something: Reflections and new directions. Preconference workshop, to be conducted prior to the Biennial Meeting of the Cognitive Developmental Society, Madison, WI.
 
-4. **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2019, March). Beliefs about the mental lives of supernatural beings: A cross-cultural comparison. Talk presented at the Biennial Meeting of the Society for Research in Child Development, Baltimore, MD.
+4. **Weisman, K.**, (2021, July). Intuitive theories of emotion: Insights from developmental and cultural comparisons. Talk presented as part of the [“Interdisciplinary Advances in Affective Cognition” pre-conference workshop](https://affcog.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting.
+
+5. **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2020, July). The development of conceptual representations of mental life in five cultural contexts. Talk presented as part of the [“Cognition, Collectives, and Human Culture” pre-conference workshop](https://cognitioncollectivesandculture.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting. [[video](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)]
+
 
