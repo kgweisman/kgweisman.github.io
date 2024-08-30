@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2024-03-26.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2024-08-30.pdf)]
 
 I study folk theories and their role in shaping people’s behaviors, relationships, and phenomenal experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
@@ -14,7 +14,7 @@ I study folk theories and their role in shaping people’s behaviors, relationsh
 
 #### Current work
 
-I study folk theories and their role in shaping people’s behaviors, relationships, and phenomenal experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. Much of my work focuses on concepts of the mind and body; additional topics of interest include the ways in which folk theories shape spiritual experiences, vaccination attitudes, and parent-child conversations about race. I completed my Ph.D. in psychology in 2019, working primarily with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** ([lab website](https://markmanlab.stanford.edu)) and **[Carol Dweck](https://profiles.stanford.edu/carol-dweck)**.
+I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. Much of my work focuses on concepts of the mind and body; additional topics of interest include the ways in which folk theories shape spiritual experiences, vaccination attitudes, and parent-child conversations about race. I completed my Ph.D. in psychology in 2019, working primarily with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)** ([lab website](https://markmanlab.stanford.edu)) and **[Carol Dweck](https://profiles.stanford.edu/carol-dweck)**.
 
 Most of my work takes the form of behavioral studies with 3- to 10-year-old children and adults. I am especially interested in applying "bottom-up" analysis approaches to exploring and quantifying similarities and differences in concepts across groups of people — such as people of different ages, or people from different cultural settings.
 
