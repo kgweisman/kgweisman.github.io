@@ -13,6 +13,6 @@ In Summer 2025, I will begin a new position as a preceptor of quantitative psych
 * [ART]({{ kgweisman.github.io }}/art)
 
 
-<img src="images/kgw_pic.jpg" alt="Kara" height="150"/>
+<img src="images/kgw_pic3.jpg" alt="Kara" height="150"/>
 <img src="images/cat.jpg" alt="Cat" height="150"/>
 <img src="images/art.png" alt="Art" height="150"/>
