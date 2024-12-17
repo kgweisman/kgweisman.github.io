@@ -1,8 +1,8 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2024-08-30.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2024-12-17.pdf)]
 
-I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
+I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/). In Summer 2025, I will begin a new position as a preceptor of quantitative psychology in the Psychology Department at Harvard University.
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -22,7 +22,9 @@ Since 2016, I have been one of the core researchers on the [Mind & Spirit Projec
 
 In Fall 2020, I joined the [Developing Belief Network](https://www.developingbelief.com/) (PIs: **[Rebekah Richert](https://ccl.ucr.edu/our-team/director/)**, Univeristy of California, Riverside, Department of Psychology; **[Kathleen Corriveau](https://www.bu.edu/wheelock/profile/kathleen-corriveau/)**, Boston University, Wheelock College of Education & Human Development) as a postdoctoral Project Director, helping to lead the development of an enduring network of developmental psychologists engaging in collaborative, multi-site research on the religious cognition and behavior across development, faiths, and cultural contexts. For the open-access study protocol for our first wave of data collection, see our recent [protocol paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292755) in _PLOS ONE_.
 
-I also collaborate with **[Ellen Markman](https://profiles.stanford.edu/ellen-markman)**, **[Steven O. Roberts](https://psychology.stanford.edu/people/steven-o-roberts)**, **[Derek Powell](http://www.derekmpowell.com/)**, and J. Nicky Sullivan on projects related to discovering, modeling, and intervening on lay theories to effect behavior change by way of conceptual change (e.g., to encourage White US parents to talk to their children about race (ms. in prep); and to address vaccine hesitancy; see our recent article in [_JEP: General_](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001324)).
+I also collaborate with **[Dominic Gibson (foundry10)](https://www.dominicgibson.com/)**, **[J. Nicky Sullivan (Stanford University)](https://www.linkedin.com/in/nicky-sullivan-phd/)**, **[Steven O. Roberts (Stanford University)](https://psychology.stanford.edu/people/steven-o-roberts)**, **[Derek Powell (Arizona State University)](http://www.derekmpowell.com/)**, and **[Ellen Markman (Stanford University)](https://profiles.stanford.edu/ellen-markman)**,  on projects related to discovering, modeling, and intervening on lay theories to effect behavior change by way of conceptual change (e.g., to encourage White US parents to talk to their children about race (ms. in prep); and to address vaccine hesitancy; see our recent article in [_JEP: General_](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001324)).
+
+In Summer 2025, I will begin a new position as a preceptor of quantitative psychology in the Psychology Department at Harvard University, where I will be focused primarily on teaching PSYCH 1900, "Introduction to Statistics for the Behavioral Sciences."
 
 #### Background
 

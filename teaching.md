@@ -1,8 +1,8 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2024-08-30.pdf)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2024-12-17.pdf)]
 
-I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
+I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. I am currently the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/). In Summer 2025, I will begin a new position as a preceptor of quantitative psychology in the Psychology Department at Harvard University.
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -12,7 +12,9 @@ I study folk theories and their role in shaping people’s behaviors, relationsh
 
 ### Teaching
 
-All teaching was completed at Stanford University.
+Starting in Fall 2025, I will be the instructor of record for **PSYCH 1900: Introduction to Statistics for the Behavioral Sciences**, offered through the (course to be taught every semester thereafter). I will also be offering an advanced undergraduate-level tutorial in statistics starting in Spring 2026 (topic TBD).
+
+Prior to joining the Psychology Department at Harvard University, I taught the following courses as a graduate student at Stanford University:
 
 #### PSYCH 141: Cognitive Development
 * Fall 2017: Guest Lecturer (Instructor: [Hyo Gweon](http://web.stanford.edu/~hyo/Home.html))
