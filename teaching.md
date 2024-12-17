@@ -12,7 +12,7 @@ I study folk theories and their role in shaping people’s behaviors, relationsh
 
 ### Teaching
 
-Starting in Fall 2025, I will be the instructor of record for **PSYCH 1900: Introduction to Statistics for the Behavioral Sciences**, offered through the (course to be taught every semester thereafter). I will also be offering an advanced undergraduate-level tutorial in statistics starting in Spring 2026 (topic TBD).
+Starting in Fall 2025, I will be the instructor of record for **PSY 1900: Introduction to Statistics for the Behavioral Sciences**, offered through the (course to be taught every semester thereafter). I will also be offering an advanced undergraduate-level tutorial in statistics starting in Spring 2026 (topic TBD).
 
 Prior to joining the Psychology Department at Harvard University, I taught the following courses as a graduate student at Stanford University:
 

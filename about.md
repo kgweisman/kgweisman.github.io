@@ -24,7 +24,7 @@ In Fall 2020, I joined the [Developing Belief Network](https://www.developingbel
 
 I also collaborate with **[Dominic Gibson (foundry10)](https://www.dominicgibson.com/)**, **[J. Nicky Sullivan (Stanford University)](https://www.linkedin.com/in/nicky-sullivan-phd/)**, **[Steven O. Roberts (Stanford University)](https://psychology.stanford.edu/people/steven-o-roberts)**, **[Derek Powell (Arizona State University)](http://www.derekmpowell.com/)**, and **[Ellen Markman (Stanford University)](https://profiles.stanford.edu/ellen-markman)**,  on projects related to discovering, modeling, and intervening on lay theories to effect behavior change by way of conceptual change (e.g., to encourage White US parents to talk to their children about race (ms. in prep); and to address vaccine hesitancy; see our recent article in [_JEP: General_](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001324)).
 
-In Summer 2025, I will begin a new position as a preceptor of quantitative psychology in the Psychology Department at Harvard University, where I will be focused primarily on teaching PSYCH 1900, "Introduction to Statistics for the Behavioral Sciences."
+In Summer 2025, I will begin a new position as a preceptor of quantitative psychology in the Psychology Department at Harvard University, where I will be focused primarily on teaching PSY 1900, "Introduction to Statistics for the Behavioral Sciences."
 
 #### Background
 
