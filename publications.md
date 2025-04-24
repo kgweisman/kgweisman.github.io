@@ -14,7 +14,7 @@ I am currently the postdoctoral project director for the [Developing Belief Netw
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-03-03.pdf)] to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Analysis code for many studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-03-03.pdf) to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Analysis code for many studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
