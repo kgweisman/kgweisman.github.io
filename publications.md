@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-03-03.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-05-09.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
 
 I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. 
 
@@ -14,27 +14,27 @@ I am currently the postdoctoral project director for the [Developing Belief Netw
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-03-03.pdf) to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Analysis code for many studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-05-09.pdf) to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Analysis code for many studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
-1. **Weisman, K.**, King, L.S., & Humphreys, K.L. (in press). Perceptions of the development of mental life. _Open Mind_. [[Github repo with full reproducible manuscript](https://github.com/kgweisman/baby_mental_life_ms)]
+1. **Weisman, K.**, King, L.S., & Humphreys, K.L. (2025). Beliefs about the development of mental life. _Open Mind_. [[github repo, including fully reproducible manuscript and supplemental materials](https://github.com/kgweisman/baby_mental_life_ms)] [[open-access link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00200/130657)]
 
-2. **Weisman, K.**, & Luhrmann, T.M. (in press). Switching between models of mind: New insights into how human minds give rise to experiences of spiritual presence and alternative realities. _Topics in Cognitive Science_.
+2. **Weisman, K.**, & Luhrmann, T.M. (2025). Switching between models of mind: New insights into how human minds give rise to experiences of spiritual presence and alternative realities. _Topics in Cognitive Science_. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.70002)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20&%20Luhrmann%20(2025).pdf)]
 
-3.	Schille-Hudson, E.B., **Weisman, K.**, & Luhrmann, T.M. (2024). Prayer and perceptual (and other) experiences. _Cognitive Science_, _48_(12): e70029.
+3. Schille-Hudson, E.B., **Weisman, K.**, & Luhrmann, T.M. (2024). Prayer and perceptual (and other) experiences. _Cognitive Science_, _48_(12): e70029. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.70029)] [[pdf]({{ kgweisman.github.io }}/pub_files/Schille-Hudson%20,%20Weisman,%20&&%20Luhrmann%20(2024).pdf)]
 
-4. **Weisman, K.**\*, Ghossainy, M.E.\*, Williams, A.J., Payir, A., Lesage, K.A., Reyes-Jaquez, B., Amin, T.G., Anggoro, F.K., Burdett, E.R.R., Chen, E.E., Coetzee, L., Coley, J.D., Dahl, A., Dautel, J.B., Davis, H.E., Davis, E.L., Diesendruck, G., Evans, D., Feeney, A., Gurven, M., Jee, B.D., Kramer, H.J., Kushnir, T., Kyriakopoulou, N., McAuliffe, K., McLaughlin, A., Nichols, S., Nicolopoulou, A., Rockers, P.C., Shneidman, L., Skopeliti, I., Srinivasan, M., Tarullo, A.R., Taylor, L.K., Yu, Y., Yucel, M., Zhao, X., Corriveau, K.H., & Richert, R.A., on behalf of the Developing Belief Network (2024). The development and diversity of religious cognition and behavior: Protocol for Wave 1 data collection with children and parents by the Developing Belief Network. _PLOS ONE_, _19_(3): e0292755. [*joint first authors] [[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292755)]
+4. **Weisman, K.**\*, Ghossainy, M.E.\*, Williams, A.J., Payir, A., Lesage, K.A., Reyes-Jaquez, B., Amin, T.G., Anggoro, F.K., Burdett, E.R.R., Chen, E.E., Coetzee, L., Coley, J.D., Dahl, A., Dautel, J.B., Davis, H.E., Davis, E.L., Diesendruck, G., Evans, D., Feeney, A., Gurven, M., Jee, B.D., Kramer, H.J., Kushnir, T., Kyriakopoulou, N., McAuliffe, K., McLaughlin, A., Nichols, S., Nicolopoulou, A., Rockers, P.C., Shneidman, L., Skopeliti, I., Srinivasan, M., Tarullo, A.R., Taylor, L.K., Yu, Y., Yucel, M., Zhao, X., Corriveau, K.H., & Richert, R.A., on behalf of the Developing Belief Network (2024). The development and diversity of religious cognition and behavior: Protocol for Wave 1 data collection with children and parents by the Developing Belief Network. _PLOS ONE_, _19_(3): e0292755. [*joint first authors] [[open-access link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292755)]
 
-5. Powell, D., **Weisman, K.**, & Markman, E.M. (2023). Modeling and leveraging intuitive theories to improve vaccine attitudes. _Journal of Experimental Psychology: General_, _152_(5), 1379-1395. [[link](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001324)] [[github repo, including fully reproducible manuscript and supplemental materials](https://github.com/derekpowell/int-theory-vacc)]
+5. Powell, D., **Weisman, K.**, & Markman, E.M. (2023). Modeling and leveraging intuitive theories to improve vaccine attitudes. _Journal of Experimental Psychology: General_, _152_(5), 1379-1395. [[github repo, including fully reproducible manuscript and supplemental materials](https://github.com/derekpowell/int-theory-vacc)] [[link](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001324)] 
 
-6. Luhrmann, T.M., & **Weisman, K.** (2022). Porosity is the heart of religion. _Current Directions in Psychological Science_, _31_(3), 247-253. [[link](https://journals.sagepub.com/doi/abs/10.1177/09637214221075285)]
+6. Luhrmann, T.M., & **Weisman, K.** (2022). Porosity is the heart of religion. _Current Directions in Psychological Science_, _31_(3), 247-253. [[link](https://journals.sagepub.com/doi/abs/10.1177/09637214221075285)] [[pdf]({{ kgweisman.github.io }}/pub_files/Luhrmann%20&%20Weisman%20(2022).pdf)]
 
 7. Richert, R.A., **Weisman, K.**, Lesage, K.A., Ghossainy, M.E., Reyes-Jaquez, B., & Corriveau, K.H. (2022). Belief, culture, & development: Insights from studying the development of religious beliefs and behaviors. _Advances in Child Development and Behavior_, _62_, 127-158. [[link](https://www.sciencedirect.com/science/article/abs/pii/S0065240721000410)] [[preprint](https://psyarxiv.com/653uy/)]
 
-8. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (2021). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behaviour_, _5_, 1358–1368. [[github repo](https://github.com/kgweisman/mental-life-culture-development)] [[link](https://www.nature.com/articles/s41562-021-01184-8)] [[open-access link](https://rdcu.be/cv9Tj)] [[PDF]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021)%20-%20SI.pdf)] [[News & Views piece by Bertram Malle](https://www.nature.com/articles/s41562-021-01183-9)]
+8. **Weisman, K.**, Legare, C.H., Smith, R.E., Dzokoto, V.A., Aulino, F., Ng, E., Dulin, J.D., Ross-Zehnder, N., Brahinsky, J.D., & Luhrmann, T.M. (2021). Similarities and differences in concepts of mental life among adults and children in five cultures. _Nature Human Behaviour_, _5_, 1358–1368. [[github repo](https://github.com/kgweisman/mental-life-culture-development)] [[link](https://www.nature.com/articles/s41562-021-01184-8)] [[open-access link](https://rdcu.be/cv9Tj)] [[pdf]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Weisman%20et%20al.%20(2021)%20-%20SI.pdf)] [[News & Views piece by Bertram Malle](https://www.nature.com/articles/s41562-021-01183-9)]
 
-9. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2021). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_, _5_, 91–99. [[github repo](https://github.com/kgweisman/think_believe)] [[link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] 
+9. Van Leeuwen, N., **Weisman, K.**, & Luhrmann, T.M. (2021). To believe is not to think: A cross-cultural finding. _Open Mind: Discoveries in Cognitive Science_, _5_, 91–99. [[github repo](https://github.com/kgweisman/think_believe)] [[open-access link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00044/106928/To-Believe-Is-Not-to-Think-A-Cross-Cultural)] 
 
 10. Luhrmann, T.M.\*, **Weisman, K.**\*, Aulino, F., Brahinsky, J.D., Dulin, J.C., Dzokoto, V.A., Legare, C.H., Lifshitz, M., Ng., E., Ross-Zehnder, N., & Smith, R.E. (2021). Sensing the presence of gods and spirits across cultures and faiths. _Proceedings of the National Academy of Sciences_, _118_(5), e2016649118.  [*joint first authors] [[github repo](https://github.com/kgweisman/sense_spirit)] [[link](https://www.pnas.org/content/118/5/e2016649118)] [[pdf]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021).pdf)] [[Supplemental Info]({{ kgweisman.github.io }}/pub_files/Luhrmann,%20Weisman,%20et%20al.%20(2021)%20-%20SI.pdf)] [[Discussion on "Many Minds" podcast](https://manyminds.libsyn.com/why-some-see-spirits)]
 
@@ -75,9 +75,11 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 
 4. Salo, V.C., Letterie, M.C., **Weisman, K.**, King, L.S., & Humphreys, K.L. (2021). Parents’ perceptions of young children’s minds are associated with their interest in and behavior toward their own. [[OSF Preprint](https://osf.io/8uzxn/)]
 
-5. **Weisman, K.** (2018). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[Github Preprint](https://kgweisman.github.io/pub_files/Weisman%20(under%20review).pdf)] 
+5. **Weisman, K.** (2018). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[github preprint](https://kgweisman.github.io/pub_files/Weisman%20(under%20review).pdf)] 
 
 #### Refereed Conference Papers
+
+1. **Weisman, K.**, & Gibson, D.J. (2025). Modeling a network of beliefs surrounding parents' endorsement of COVID vaccines for children. Paper to be included in Proceedings of the 47th Annual Conference of the Cognitive Science Society.
 
 1. Schille-Hudson, E.B., **Weisman, K.**, & Luhrmann, T.M. (2024). Rates of spiritual presence events. In Proceedings of the 46th Annual Conference of the Cognitive Science Society. [[link to paper](https://escholarship.org/uc/item/4wt510nb)]
 
