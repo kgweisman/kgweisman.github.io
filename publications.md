@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-06-03.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-06-11.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
 
 I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. 
 
@@ -14,7 +14,7 @@ I am currently a researcher in the [Conceptual Development Lab at foundry10](htt
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-06-03.pdf) to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Additional papers by the Developing Belief Network are also available via the [Developing Belief Network's Google Scholar profile](https://scholar.google.com/citations?user=7IT3LaAAAAAJ&hl=en&authuser=7). Analysis code for many of my studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-06-11.pdf) to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Additional papers by the Developing Belief Network are also available via the [Developing Belief Network's Google Scholar profile](https://scholar.google.com/citations?user=7IT3LaAAAAAJ&hl=en&authuser=7). Analysis code for many of my studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
@@ -69,13 +69,13 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 
 1. Williams-Gant, A. J.\*, **Weisman, K.**\*, Amin, T. G., Ghossainy, M. E., Soueidan, G., Nissel, J., Kenderla, P., Abdel-Hak, M., Anggoro, F. K., Bangayan, S., Burdett, E. R. R., Chau, E., Chen, E. E., Chua, J., Coetzee, L., Coley, J. D., Dahl, A., Dautel, J. B., Davis, E. L., Davis, H. E., DeLeon, A., Diesendruck, G., Evans, D., Feeney, A., Fong, F. T. K., Foo, X., Garcia, A., Gonzalez-Rubio, I., Guerrero Galaz, E., Gurven, M., Hu, Y., Huachorunto, K., Indrawati, K., Jee, B. D., Kahwa, M., Kahwa, U., Korah, R., Kramer, H. J., Kushnir, T., Kyriakopoulou, N., Lebepe, S., Lee, H. J., Lesage, K. A., Leshabana, P., Li, D., Li, P. H., Llacua, J. T., Maluleke, V., Marin, A., Marshall, J., Masebe, N., McAuliffe, K., McLaughlin, A., McMullan, A., McShane, C., Min, C., Mutegeki, M., Namara, O., Nichols, S., Nicolopoulou, A., Nielsen, M., Otali, E., Parise, K., Paucar, X. A., Payir, A., Poonawalla, S., Reyes-Jaquez, B., Riddick, S., Rockers, P. C., Ruiz, J. K., Sanjidah, R., Shneidman, L., Skopeliti, I., Srinivasan, M., Stegall, J., Stephens, J., Stutesman, M. G., Sun, J., Tarullo, A., Taylor, L. K., Theogen, I., Toong, D., Turan-Küçük , E. N., Tusiime, P. T., Ventura, E. P., Xu, J., Ye, N., Yu, Y., Yucel, M., Zhang, W., Zhao, X., Corriveau, K. H., Richert, R. A., on behalf of the [Developing Belief Network](https://scholar.google.com/citations?user=7IT3LaAAAAAJ&hl=en&authuser=7) (submitted). Working across religions, cultures, settings, and development: Protocol for Wave 2 data collection with children and parents by the Developing Belief Network. [*joint first authors] [[OSF Preprint](https://osf.io/preprints/osf/vujp3)] 
 
-2. Schille-Hudson, E., **Weisman, K.**, & Luhrmann, T.M. (submitted). Voice hearing, inner speech, and attention to the mind. OSF preregistration: https://osf.io/nr9w4 
+2. Garon-Bissonnette, J., King, L. S., Salo, V. C., Hare, M. M., **Weisman, K.**, & Humphreys, K. L. (submitted). Mothers and fathers differ in their perceptions of young children's minds. [[OSF Preprint](https://osf.io/preprints/osf/6ydzt)]
 
-3. **Weisman, K.**, Ghossainy, M.E., Lesage, K. A., Reyes-Jaquez, B., Williams, A.J., Payir, A., Corriveau, K.H., & Richert, R.A. (2023). Developing Belief Network Authorship Guidelines. [*joint first authors] [[OSF Preprint](https://osf.io/preprints/osf/vujp3)] 
+3. Schille-Hudson, E., **Weisman, K.**, & Luhrmann, T.M. (submitted). Voice hearing, inner speech, and attention to the mind. OSF preregistration: https://osf.io/nr9w4 
 
-4. **Weisman, K.** (2021). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning. [[OSF Preprint](https://osf.io/4rnw3)]
+4. **Weisman, K.**, Ghossainy, M.E., Lesage, K. A., Reyes-Jaquez, B., Williams, A.J., Payir, A., Corriveau, K.H., & Richert, R.A. (2023). Developing Belief Network Authorship Guidelines. [*joint first authors] [[OSF Preprint](https://osf.io/preprints/osf/vujp3)] 
 
-5. Salo, V.C., Letterie, M.C., **Weisman, K.**, King, L.S., & Humphreys, K.L. (2021). Parents’ perceptions of young children’s minds are associated with their interest in and behavior toward their own. [[OSF Preprint](https://osf.io/8uzxn/)]
+5. **Weisman, K.** (2021). Machines with minds: Beliefs about the mental lives of robots and implications for human social reasoning. [[OSF Preprint](https://osf.io/4rnw3)]
 
 6. **Weisman, K.** (2018). Toward a representative and rigorous science of the mind: Notes from a young psychologist on the Mind & Spirit Project. [[github preprint](https://kgweisman.github.io/pub_files/Weisman%20(under%20review).pdf)] 
 
