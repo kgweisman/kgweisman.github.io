@@ -1,10 +1,10 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-06-11.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-07-21.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
 
 I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. 
 
-I am currently a researcher in the [Conceptual Development Lab at foundry10](https://www.foundry10.org/conceptual-development-lab). From 2020-2025 I was the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
+Beginning in August 2025, I will be a Senior Researcher (Principal Investigator) in the [Conceptual Development Lab at foundry10](https://www.foundry10.org/conceptual-development-lab). From 2020-2025 I was the postdoctoral project director for the [Developing Belief Network](https://www.developingbelief.com/).
 
 * [HOME]({{ kgweisman.github.io }}/index)
 * [ABOUT ME]({{ kgweisman.github.io }}/about)
@@ -16,11 +16,11 @@ I am currently a researcher in the [Conceptual Development Lab at foundry10](htt
 
 #### Current work
 
-I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. Much of my work focuses on the ways in which folk theories shape people's experiences, attitudes, and behaviors; recent topics include concepts of the mind and body, spiritual experiences, vaccination attitudes, and parent-child conversations about race. 
+I am deeply curious about how children and adults come to understand themselves and the world around them. In my research, I explore the ways in which ordinary people's representations of the world (their "folk theories") are shaped by cognitive, developmental, social, and cultural factors. My research is grounded in psychology, but it is multidisciplinary at heart: I integrate advances in statistical modeling and computational cognitive science with insights from anthropology and philosophy to uncover, quantify, and explain similarities and differences across development, across cultural settings, and across individuals. Most of my work centers on concepts of mind and body, caregiving practices, and health-related behaviors.
 
-Most of my work takes the form of behavioral studies with 3- to 10-year-old children and surveys with adults. I am especially interested in applying "bottom-up" analysis approaches to exploring and quantifying similarities and differences in concepts across groups of people, such as people of different ages, or people from different cultural settings.
+Much of my research takes the form of behavioral studies with 3- to 10-year-old children and surveys with adults, but I also draw on ethnographic approaches to inform my work. I am especially interested in applying "bottom-up" analysis approaches to exploring and quantifying similarities and differences in concepts across groups of people, such as people of different ages, or people from different cultural settings.
 
-I recently joined the [Conceptual Development Lab at foundry10](https://www.foundry10.org/conceptual-development-lab) as a researcher, collaborating closely with **[Dominic Gibson](https://www.dominicgibson.com/)** on studies of children and their parents/caregivers.
+I recently joined the [Conceptual Development Lab at foundry10](https://www.foundry10.org/conceptual-development-lab) as a Senior Researcher (Principal Investigator). Over the past few years I have collaborated closely with **[Dominic Gibson](https://www.dominicgibson.com/)** on studies of children and their parents/caregivers, with a focus on parents' attitudes toward vaccines.
 
 I am also one of the inaugural members of the [Developing Belief Network](https://www.developingbelief.com/) (PIs: **[Rebekah Richert](https://ccl.ucr.edu/our-team/director/)**, Univeristy of California, Riverside, Department of Psychology; **[Kathleen Corriveau](https://www.bu.edu/wheelock/profile/kathleen-corriveau/)**, Boston University, Wheelock College of Education & Human Development). From 2020-2025 I was the postdoctoral Project Director for the network. I helped lead the development of the network and the design of our study protocols, and supported participating research teams during the first three waves of data collection (which included over 2000 children and their caregivers, from 47 distinct cultural-religious groups spanning 19 countries). For the open-access study protocols for our first and second waves of data collection, see our [protocol paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0292755) in _PLOS ONE_ and our recent [preprint](https://osf.io/preprints/osf/vujp3).
 
