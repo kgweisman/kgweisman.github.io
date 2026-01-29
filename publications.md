@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-09-05.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2026-01-29.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
 
 I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. 
 
@@ -14,13 +14,13 @@ I am a Senior Researcher at the education research organization foundry10, where
 
 ### Publications
 
-**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-09-05.pdf) to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Additional papers by the Developing Belief Network are also available via the [Developing Belief Network's Google Scholar profile](https://scholar.google.com/citations?user=7IT3LaAAAAAJ&hl=en&authuser=7). Analysis code for many of my studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
+**_Click [here]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2026-01-29.pdf) to view my full CV._** _Most of my papers are available on my [Google Scholar profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en). Additional papers by the Developing Belief Network are also available via the [Developing Belief Network's Google Scholar profile](https://scholar.google.com/citations?user=7IT3LaAAAAAJ&hl=en&authuser=7). Analysis code for many of my studies is available on [Github](https://github.com/kgweisman). Materials and preregistrations for many projects are available via [OSF](https://osf.io/6vq98/). Please [email me](mailto:kgweisman@gmail.com) with questions, comments, and ideas._
 
 #### Journal Articles
 
 1. Williams-Gant, A. J.\*, **Weisman, K.**\*, Amin, T. G., Ghossainy, M. E., Soueidan, G., Nissel, J., Kenderla, P., Abdel-Hak, M., Anggoro, F. K., Bangayan, S., Burdett, E. R. R., Chau, E., Chen, E. E., Chua, J., Coetzee, L., Coley, J. D., Dahl, A., Dautel, J. B., Davis, E. L., Davis, H. E., DeLeon, A., Diesendruck, G., Evans, D., Feeney, A., Fong, F. T. K., Foo, X., Garcia, A., Gonzalez-Rubio, I., Guerrero Galaz, E., Gurven, M., Hu, Y., Huachorunto, K., Indrawati, K., Jee, B. D., Kahwa, M., Kahwa, U., Korah, R., Kramer, H. J., Kushnir, T., Kyriakopoulou, N., Lebepe, S., Lee, H. J., Lesage, K. A., Leshabana, P., Li, D., Li, P. H., Llacua, J. T., Maluleke, V., Marin, A., Marshall, J., Masebe, N., McAuliffe, K., McLaughlin, A., McMullan, A., McShane, C., Min, C., Mutegeki, M., Namara, O., Nichols, S., Nicolopoulou, A., Nielsen, M., Otali, E., Parise, K., Paucar, X. A., Payir, A., Poonawalla, S., Reyes-Jaquez, B., Riddick, S., Rockers, P. C., Ruiz, J. K., Sanjidah, R., Shneidman, L., Skopeliti, I., Srinivasan, M., Stegall, J., Stephens, J., Stutesman, M. G., Sun, J., Tarullo, A., Taylor, L. K., Theogen, I., Toong, D., Turan-Küçük , E. N., Tusiime, P. T., Ventura, E. P., Xu, J., Ye, N., Yu, Y., Yucel, M., Zhang, W., Zhao, X., Corriveau, K. H., Richert, R. A., on behalf of the [Developing Belief Network](https://scholar.google.com/citations?user=7IT3LaAAAAAJ&hl=en&authuser=7) (2025). Working across religions, cultures, settings, and development: Protocol for Wave 2 data collection with children and parents by the Developing Belief Network. _PLOS ONE_, _20_(9): e0330727. [*joint first authors] [[open-access link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0330727)]
 
-2. Schille-Hudson, E.B., **Weisman, K.**, & Luhrmann, T.M. (in press). Voice-hearing in the general population: the relationship between inner speech, absorption and voice-like hallucinations. _Schizophrenia Bulletin_. 
+2. Schille-Hudson, E.B., **Weisman, K.**, & Luhrmann, T.M. (2025). Voice-hearing in the general population: the relationship between inner speech, absorption and voice-like hallucinations. _Schizophrenia Bulletin_, _51(3)_, S292–S303. [[link](https://academic.oup.com/schizophreniabulletin/article/51/Supplement_3/S292/8275897)]
 
 3. **Weisman, K.**, King, L.S., & Humphreys, K.L. (2025). Beliefs about the development of mental life. _Open Mind_, _9_, 515-539. [[github repo, including fully reproducible manuscript and supplemental materials](https://github.com/kgweisman/baby_mental_life_ms)] [[open-access link](https://direct.mit.edu/opmi/article/doi/10.1162/opmi_a_00200/130657)]
 
@@ -105,13 +105,19 @@ Sketches of my defense by Natalia Vélez [@natvelali](https://twitter.com/natvel
 
 #### Other (Recent) Posters & Presentations
 
-1. **Weisman, K.** (2024, March). What can we learn about folk theories from children’s concepts of supernatural beings? Talk presented as part of the "Building a Global Research Collaborative: Experiences and Findings from the Developing Belief Network"" pre-conference workshop, prior to the Biennial Meeting of the Cognitive Development Society, Pasadena, CA.
+1. **Weisman, K.**, Hoffman, M., Tung, A., & Gibson, D.J. (2026, April). Caregivers’ estimates reflect but systematically exceed their children’s actual number knowledge. Poster to be presented at the Biennial Meeting of the Cognitive Development Society, Montreal, Quebec, Canada.
 
-2. **Weisman, K.**, Amin, T.G., Anggoro, F.K., Ghossainy, M.E., Jee, B.D., Srinivasan, M., & Richert, R.A. (2024, March). Does God have to follow the rules? Folk sociology in concepts of religious agents across cultural-religious settings. Poster presented at the Biennial Meeting of the Cognitive Development Society, Pasadena, CA.
+2. Tung, A., Hoffman, M., **Weisman, K.**, & Gibson, D.J. (2026, April). Does children’s acquisition of number gestures mirror number words? Poster to be presented at the Biennial Meeting of the Cognitive Development Society, Montreal, Quebec, Canada.
 
-3. **Weisman, K.**, Lesage, K.A., Richert, R.A., & Corriveau, K. (organizers; 2022, April). Theory-theory turns thirty-something: Reflections and new directions. Preconference workshop, prior to the Biennial Meeting of the Cognitive Developmental Society, Madison, WI.
+3. Hoffman, M., Tung, A., **Weisman, K.**, & Gibson, D.J. (2026, April). Caregivers’ beliefs about play and engagement in guided play behaviors in a children’s museum. Poster to be presented at the Biennial Meeting of the Cognitive Development Society, Montreal, Quebec, Canada.
 
-4. **Weisman, K.**, (2021, July). Intuitive theories of emotion: Insights from developmental and cultural comparisons. Talk presented as part of the [“Interdisciplinary Advances in Affective Cognition” pre-conference workshop](https://affcog.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting.
+4. **Weisman, K.** (2024, March). What can we learn about folk theories from children’s concepts of supernatural beings? Talk presented as part of the "Building a Global Research Collaborative: Experiences and Findings from the Developing Belief Network pre-conference workshop, prior to the Biennial Meeting of the Cognitive Development Society, Pasadena, CA.
 
-5. **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2020, July). The development of conceptual representations of mental life in five cultural contexts. Talk presented as part of the [“Cognition, Collectives, and Human Culture” pre-conference workshop](https://cognitioncollectivesandculture.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting. [[video](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)]
+5. **Weisman, K.**, Amin, T.G., Anggoro, F.K., Ghossainy, M.E., Jee, B.D., Srinivasan, M., & Richert, R.A. (2024, March). Does God have to follow the rules? Folk sociology in concepts of religious agents across cultural-religious settings. Poster presented at the Biennial Meeting of the Cognitive Development Society, Pasadena, CA.
+
+6. **Weisman, K.**, Lesage, K.A., Richert, R.A., & Corriveau, K. (organizers; 2022, April). Theory-theory turns thirty-something: Reflections and new directions. Preconference workshop, prior to the Biennial Meeting of the Cognitive Developmental Society, Madison, WI.
+
+7. **Weisman, K.**, (2021, July). Intuitive theories of emotion: Insights from developmental and cultural comparisons. Talk presented as part of the [“Interdisciplinary Advances in Affective Cognition” pre-conference workshop](https://affcog.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting.
+
+8. **Weisman, K.**, Legare, C.H., & Luhrmann, T.M. (2020, July). The development of conceptual representations of mental life in five cultural contexts. Talk presented as part of the [“Cognition, Collectives, and Human Culture” pre-conference workshop](https://cognitioncollectivesandculture.github.io/), prior to the Annual Meeting of the Cognitive Science Society, virtual meeting. [[video](https://cognitioncollectivesandculture.github.io/theme3/2020/07/29/KaraWeisman.html)]
 

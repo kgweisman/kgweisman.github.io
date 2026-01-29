@@ -1,6 +1,6 @@
 ## Kara Weisman
 
-[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2025-09-05.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
+[**email**: [kgweisman at gmail](mailto:kgweisman@gmail.com)] [**cv**: [pdf]({{ kgweisman.github.io }}/pub_files/Weisman_CV_2026-01-29.pdf)] [**Google Scholar**: [profile](https://scholar.google.com/citations?user=Ythhby0AAAAJ&hl=en)]
 
 I study folk theories and their role in shaping people’s behaviors, relationships, and experiences. I am particularly interested in the ways in which conceptual representations do and do not vary across development, across cultural settings, and across individuals. 
 
